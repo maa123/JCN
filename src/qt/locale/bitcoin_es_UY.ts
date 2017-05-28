@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Clic derecho para editar dirección o etiqueta</translation>
+        <translation>Clic derecho para editar direccion o etiqueta</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Crear una nueva dirección </translation>
+        <translation>Crear una nueva direccion </translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copia la dirección seleccionada al portapapeles del sistema</translation>
+        <translation>Copia la direccion seleccionada al portapapeles del sistema</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -41,15 +41,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Escriba la contraseña</translation>
+        <translation>Escriba la contrasena</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Nueva contraseña</translation>
+        <translation>Nueva contrasena</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Repetir nueva contraseña</translation>
+        <translation>Repetir nueva contrasena</translation>
     </message>
     </context>
 <context>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Mostrar descripción general del monedero</translation>
+        <translation>Mostrar descripcion general del monedero</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Mostrar informacioón sobre</translation>
+        <translation>Mostrar informacioon sobre</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>Cambiar contraseña</translation>
+        <translation>Cambiar contrasena</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
@@ -110,16 +110,16 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedas a una dirección Litecoin</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Enviar monedas a una direccion JapariCoin</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
         <translation>Cambie la clave utilizada para el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Informacion</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -174,7 +174,7 @@
     <message>
         <source>Address: %1
 </source>
-        <translation>Dirección: %1</translation>
+        <translation>Direccion: %1</translation>
     </message>
     <message>
         <source>Sent transaction</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Transacción entrante</translation>
+        <translation>Transaccion entrante</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
@@ -232,7 +232,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Editar dirección</translation>
+        <translation>Editar direccion</translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -293,7 +293,7 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Información</translation>
+        <translation>Informacion</translation>
     </message>
     </context>
 <context>
@@ -307,7 +307,7 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Copiar Dirección</translation>
+        <translation>Copiar Direccion</translation>
     </message>
     </context>
 <context>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Confirmar el envío</translation>
+        <translation>Confirmar el envio</translation>
     </message>
     </context>
 <context>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar la dirección desde el portapapeles</translation>
+        <translation>Pegar la direccion desde el portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar la dirección desde el portapapeles</translation>
+        <translation>Pegar la direccion desde el portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -446,7 +446,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Informacion</translation>
     </message>
     <message>
         <source>Warning</source>

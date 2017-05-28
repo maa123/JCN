@@ -3,19 +3,19 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Nhấn chuột phải để sửa địa chỉ hoặc nhãn</translation>
+        <translation>Nh?n chu?t ph?i ?? s?a ??a ch? ho?c nhan</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Tạo một địa chỉ mới</translation>
+        <translation>T?o m?t ??a ch? m?i</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;Mới</translation>
+        <translation>&amp;M?i</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copy địa chỉ được chọn vào clipboard</translation>
+        <translation>Copy ??a ch? ???c ch?n vao clipboard</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -23,23 +23,23 @@
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Đó&amp;ng</translation>
+        <translation>?o&amp;ng</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Xóa địa chỉ hiện tại từ danh sách</translation>
+        <translation>Xoa ??a ch? hi?n t?i t? danh sach</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Xuất dữ liệu trong mục hiện tại ra file</translation>
+        <translation>Xu?t d? li?u trong m?c hi?n t?i ra file</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>X&amp;uất</translation>
+        <translation>X&amp;u?t</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Xó&amp;a</translation>
+        <translation>&amp;Xo&amp;a</translation>
     </message>
     </context>
 <context>
@@ -49,19 +49,19 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Hội thoại Passphrase</translation>
+        <translation>H?i tho?i Passphrase</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Điền passphrase</translation>
+        <translation>?i?n passphrase</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Passphrase mới</translation>
+        <translation>Passphrase m?i</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Điền lại passphrase</translation>
+        <translation>?i?n l?i passphrase</translation>
     </message>
     </context>
 <context>
@@ -72,22 +72,22 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>Bị cấm đến</translation>
+        <translation>B? c?m ??n</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Chứ ký &amp; Tin nhắn...</translation>
+        <translation>Ch? ky &amp; Tin nh?n...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Đồng bộ hóa với mạng</translation>
+        <translation>??ng b? hoa v?i m?ng</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
-        <translation>&amp;Tổng quan</translation>
+        <translation>&amp;T?ng quan</translation>
     </message>
     <message>
         <source>Node</source>
@@ -95,131 +95,131 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Hiện thỉ thông tin sơ lược chung về Ví</translation>
+        <translation>Hi?n th? thong tin s? l??c chung v? Vi</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Giao dịch</translation>
+        <translation>&amp;Giao d?ch</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Duyệt tìm lịch sử giao dịch</translation>
+        <translation>Duy?t tim l?ch s? giao d?ch</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>T&amp;hoát</translation>
+        <translation>T&amp;hoat</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Thoát chương trình</translation>
+        <translation>Thoat ch??ng trinh</translation>
     </message>
     <message>
         <source>&amp;About %1</source>
-        <translation>&amp;Thông tin về %1</translation>
+        <translation>&amp;Thong tin v? %1</translation>
     </message>
     <message>
         <source>Show information about %1</source>
-        <translation>Hiện thông tin về %1</translation>
+        <translation>Hi?n thong tin v? %1</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>Về &amp;Qt</translation>
+        <translation>V? &amp;Qt</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Xem thông tin về Qt</translation>
+        <translation>Xem thong tin v? Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>&amp;Tùy chọn...</translation>
+        <translation>&amp;Tuy ch?n...</translation>
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>Chỉnh sửa thiết đặt tùy chọn cho %1</translation>
+        <translation>Ch?nh s?a thi?t ??t tuy ch?n cho %1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Mã hóa ví tiền</translation>
+        <translation>&amp;Ma hoa vi ti?n</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Sao lưu ví tiền...</translation>
+        <translation>&amp;Sao l?u vi ti?n...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Thay đổi mật khẩu...</translation>
+        <translation>&amp;Thay ??i m?t kh?u...</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>&amp;Địa chỉ gửi</translation>
+        <translation>&amp;??a ch? g?i</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
-        <translation>Địa chỉ nhận</translation>
+        <translation>??a ch? nh?n</translation>
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>Mở &amp;URI...</translation>
+        <translation>M? &amp;URI...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
+        <translation>?anh ch? s? (indexing) l?i cac kh?i (blocks) tren ? ??a ...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Gửi coins đến tài khoản Litecoin</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>G?i coins ??n tai kho?n JapariCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Sao lưu ví tiền ở vị trí khác</translation>
+        <translation>Sao l?u vi ti?n ? v? tri khac</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Thay đổi cụm mật mã dùng cho mã hoá Ví</translation>
+        <translation>Thay ??i c?m m?t ma dung cho ma hoa Vi</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>&amp;Cửa sổ xử lý lỗi (debug)</translation>
+        <translation>&amp;C?a s? x? ly l?i (debug)</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Tin nhắn xác thực</translation>
+        <translation>&amp;Tin nh?n xac th?c</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Ví</translation>
+        <translation>Vi</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Gửi</translation>
+        <translation>&amp;G?i</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
-        <translation>&amp;Nhận</translation>
+        <translation>&amp;Nh?n</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>Ẩn / H&amp;iện</translation>
+        <translation>?n / H&amp;i?n</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Hiện hoặc ẩn cửa sổ chính</translation>
+        <translation>Hi?n ho?c ?n c?a s? chinh</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
+        <translation>Ma hoa cac khoa bi m?t trong Vi c?a b?n.</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Litecoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your JapariCoin addresses to prove you own them</source>
+        <translation>Dung ??a ch? JapariCoin c?a b?n ky cac tin nh?n ?? xac minh nh?ng n?i dung tin nh?n ?o la c?a b?n.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Litecoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified JapariCoin addresses</source>
+        <translation>Ki?m tra cac tin nh?n ?? ch?c ch?n r?ng chung ???c ky b?ng cac ??a ch? JapariCoin xac ??nh.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -227,140 +227,140 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Thiết lập</translation>
+        <translation>&amp;Thi?t l?p</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>Trợ &amp;giúp</translation>
+        <translation>Tr? &amp;giup</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Thanh công cụ (toolbar)</translation>
+        <translation>Thanh cong c? (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Litecoin: URLs)</translation>
+        <source>Request payments (generates QR codes and JapariCoin: URIs)</source>
+        <translation>Yeu c?u thanh toan(t?o ma QR va ??a ch? JapariCoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để gửi.</translation>
+        <translation>Hi?n th? danh sach cac ??a ch? va nhan ?a dung ?? g?i.</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
+        <translation>Hi?n th? danh sach cac ??a ch? va nhan ?a dung ?? nh?n.</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Mở litecoin:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a JapariCoin: URI or payment request</source>
+        <translation>M? JapariCoin:URL ho?c yeu c?u thanh toan</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>7Tùy chọn dòng lệnh</translation>
+        <translation>7Tuy ch?n dong l?nh</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n giờ</numerusform></translation>
+        <translation><numerusform>%n gi?</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>%n ngày</numerusform></translation>
+        <translation><numerusform>%n ngay</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n tuần</numerusform></translation>
+        <translation><numerusform>%n tu?n</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 và %2</translation>
+        <translation>%1 va %2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n năm</numerusform></translation>
+        <translation><numerusform>%n n?m</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
-        <translation>%1 chậm trễ</translation>
+        <translation>%1 ch?m tr?</translation>
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>Khối (block) cuối cùng nhận được cách đây %1</translation>
+        <translation>Kh?i (block) cu?i cung nh?n ???c cach ?ay %1</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Những giao dịch sau đó sẽ không hiện thị.</translation>
+        <translation>Nh?ng giao d?ch sau ?o s? khong hi?n th?.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation>L?i</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Chú ý</translation>
+        <translation>Chu y</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Thông tin</translation>
+        <translation>Thong tin</translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>Đã cập nhật</translation>
+        <translation>?a c?p nh?t</translation>
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Bắt kịp...</translation>
+        <translation>B?t k?p...</translation>
     </message>
     <message>
         <source>Date: %1
 </source>
-        <translation>Ngày: %1
+        <translation>Ngay: %1
 </translation>
     </message>
     <message>
         <source>Amount: %1
 </source>
-        <translation>Số lượng: %1
+        <translation>S? l??ng: %1
 </translation>
     </message>
     <message>
         <source>Type: %1
 </source>
-        <translation>Loại: %1
+        <translation>Lo?i: %1
 </translation>
     </message>
     <message>
         <source>Label: %1
 </source>
-        <translation>Nhãn hiệu: %1
+        <translation>Nhan hi?u: %1
 </translation>
     </message>
     <message>
         <source>Address: %1
 </source>
-        <translation>Địa chỉ: %1
+        <translation>??a ch?: %1
 </translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Giao dịch đã gửi</translation>
+        <translation>Giao d?ch ?a g?i</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Giao dịch đang tới</translation>
+        <translation>Giao d?ch ?ang t?i</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Ví tiền &lt;b&gt; đã được mã hóa&lt;/b&gt;và hiện &lt;b&gt;đang mở&lt;/b&gt;</translation>
+        <translation>Vi ti?n &lt;b&gt; ?a ???c ma hoa&lt;/b&gt;va hi?n &lt;b&gt;?ang m?&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Ví tiền &lt;b&gt; đã được mã hóa&lt;/b&gt;và hiện &lt;b&gt;đang khóa&lt;/b&gt;</translation>
+        <translation>Vi ti?n &lt;b&gt; ?a ???c ma hoa&lt;/b&gt;va hi?n &lt;b&gt;?ang khoa&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -368,77 +368,77 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Tầm quan trọng:</translation>
+        <translation>T?m quan tr?ng:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Phí:</translation>
+        <translation>Phi:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Sau thuế, phí:</translation>
+        <translation>Sau thu?, phi:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Thay đổi:</translation>
+        <translation>Thay ??i:</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(bỏ)chọn tất cả</translation>
+        <translation>(b?)ch?n t?t c?</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>Chế độ cây</translation>
+        <translation>Ch? ?? cay</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation>Chế độ danh sách</translation>
+        <translation>Ch? ?? danh sach</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Lượng</translation>
+        <translation>L??ng</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Ngày tháng</translation>
+        <translation>Ngay thang</translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Lần xác nhận</translation>
+        <translation>L?n xac nh?n</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Đã xác nhận</translation>
+        <translation>?a xac nh?n</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Tầm quan trọng</translation>
+        <translation>T?m quan tr?ng</translation>
     </message>
     </context>
 <context>
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Thay đổi địa chỉ</translation>
+        <translation>Thay ??i ??a ch?</translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>Nhãn</translation>
+        <translation>Nhan</translation>
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>Địa chỉ</translation>
+        <translation>??a ch?</translation>
     </message>
     </context>
 <context>
     <name>FreespaceChecker</name>
     <message>
         <source>name</source>
-        <translation>tên</translation>
+        <translation>ten</translation>
     </message>
     </context>
 <context>
@@ -453,45 +453,45 @@
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>&amp;Tùy chọn dòng lệnh</translation>
+        <translation>&amp;Tuy ch?n dong l?nh</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Mức sử dụng</translation>
+        <translation>M?c s? d?ng</translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>tùy chọn dòng lệnh</translation>
+        <translation>tuy ch?n dong l?nh</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Chọn ngôn ngữ, ví dụ "de_DE" (mặc định: Vị trí hệ thống)</translation>
+        <translation>Ch?n ngon ng?, vi d? "de_DE" (m?c ??nh: V? tri h? th?ng)</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Đặt chứng nhận SSL gốc cho yêu cầu giao dịch (mặc định: -hệ thống-)</translation>
+        <translation>??t ch?ng nh?n SSL g?c cho yeu c?u giao d?ch (m?c ??nh: -h? th?ng-)</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Chào mừng</translation>
+        <translation>Chao m?ng</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Sử dụng vị trí dữ liệu mặc định</translation>
+        <translation>S? d?ng v? tri d? li?u m?c ??nh</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation>L?i</translation>
     </message>
     </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Mở URI</translation>
+        <translation>M? URI</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -502,11 +502,11 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>Lựa chọn</translation>
+        <translation>L?a ch?n</translation>
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>&amp;Chính</translation>
+        <translation>&amp;Chinh</translation>
     </message>
     <message>
         <source>MB</source>
@@ -514,27 +514,27 @@
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Chấp nhận các kết nối từ bên ngoài</translation>
+        <translation>Ch?p nh?n cac k?t n?i t? ben ngoai</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
-        <translation>Cho phép nhận kết nối</translation>
+        <translation>Cho phep nh?n k?t n?i</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>Địa chỉ IP của proxy (ví dụ IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>??a ch? IP c?a proxy (vi d? IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>Phần mềm giao dịch bên thứ ba URLs</translation>
+        <translation>Ph?n m?m giao d?ch ben th? ba URLs</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>Ví</translation>
+        <translation>Vi</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Litecoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the JapariCoin network through a SOCKS5 proxy.</source>
+        <translation>K?t n?i ??n may ch? JapariCoin thong qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -542,11 +542,11 @@
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>&amp;Cổng:</translation>
+        <translation>&amp;C?ng:</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Cổng proxy (e.g. 9050) </translation>
+        <translation>C?ng proxy (e.g. 9050) </translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -558,11 +558,11 @@
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>&amp;Hiển thị</translation>
+        <translation>&amp;Hi?n th?</translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>Giao diện người dùng &amp; ngôn ngữ</translation>
+        <translation>Giao di?n ng??i dung &amp; ngon ng?</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -570,15 +570,15 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Từ chối</translation>
+        <translation>&amp;T? ch?i</translation>
     </message>
     <message>
         <source>default</source>
-        <translation>mặc định</translation>
+        <translation>m?c ??nh</translation>
     </message>
     <message>
         <source>none</source>
-        <translation>Trống</translation>
+        <translation>Tr?ng</translation>
     </message>
     </context>
 <context>
@@ -589,15 +589,15 @@
     </message>
     <message>
         <source>Available:</source>
-        <translation>Khả dụng</translation>
+        <translation>Kh? d?ng</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>Đang chờ</translation>
+        <translation>?ang ch?</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Tổng:</translation>
+        <translation>T?ng:</translation>
     </message>
     </context>
 <context>
@@ -614,29 +614,29 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Lượng</translation>
+        <translation>L??ng</translation>
     </message>
     </context>
 <context>
     <name>QRImageWidget</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>$Lưu hình ảnh...</translation>
+        <translation>$L?u hinh ?nh...</translation>
     </message>
     </context>
 <context>
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Thông tin</translation>
+        <translation>Thong tin</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Nhìn Chung</translation>
+        <translation>Nhin Chung</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation>Ten</translation>
     </message>
     <message>
         <source>Block chain</source>
@@ -644,7 +644,7 @@
     </message>
     <message>
         <source>Sent</source>
-        <translation>Đã gửi</translation>
+        <translation>?a g?i</translation>
     </message>
     <message>
         <source>User Agent</source>
@@ -652,27 +652,27 @@
     </message>
     <message>
         <source>1 &amp;hour</source>
-        <translation>1&amp;giờ</translation>
+        <translation>1&amp;gi?</translation>
     </message>
     <message>
         <source>1 &amp;day</source>
-        <translation>1&amp;ngày</translation>
+        <translation>1&amp;ngay</translation>
     </message>
     <message>
         <source>1 &amp;week</source>
-        <translation>1&amp;tuần</translation>
+        <translation>1&amp;tu?n</translation>
     </message>
     <message>
         <source>1 &amp;year</source>
-        <translation>1&amp;năm</translation>
+        <translation>1&amp;n?m</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Sử dụng phím lên và xuống để di chuyển lịch sử, và &lt;b&gt;Ctrl-L&lt;/b&gt; để xóa màn hình</translation>
+        <translation>S? d?ng phim len va xu?ng ?? di chuy?n l?ch s?, va &lt;b&gt;Ctrl-L&lt;/b&gt; ?? xoa man hinh</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Gõ &lt;b&gt;help&lt;/b&gt; để xem nhưng câu lệnh có sẵn</translation>
+        <translation>Go &lt;b&gt;help&lt;/b&gt; ?? xem nh?ng cau l?nh co s?n</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -692,66 +692,66 @@
     </message>
     <message>
         <source>never</source>
-        <translation>không bao giờ</translation>
+        <translation>khong bao gi?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Đồng ý</translation>
+        <translation>??ng y</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Không</translation>
+        <translation>Khong</translation>
     </message>
     </context>
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Nhãn</translation>
+        <translation>&amp;Nhan</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation>&amp;Tin nhắn:</translation>
+        <translation>&amp;Tin nh?n:</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Sử dụng form này để yêu cầu thanh toán. Tất cả các trường &lt;b&gt;không bắt buộc&lt;b&gt;</translation>
+        <translation>S? d?ng form nay ?? yeu c?u thanh toan. T?t c? cac tr??ng &lt;b&gt;khong b?t bu?c&lt;b&gt;</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Xóa tất cả các trường trong biểu mẫu</translation>
+        <translation>Xoa t?t c? cac tr??ng trong bi?u m?u</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Xóa</translation>
+        <translation>Xoa</translation>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>Lịch sử yêu cầu thanh toán</translation>
+        <translation>L?ch s? yeu c?u thanh toan</translation>
     </message>
     <message>
         <source>&amp;Request payment</source>
-        <translation>&amp;Yêu cầu thanh toán</translation>
+        <translation>&amp;Yeu c?u thanh toan</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Hiển thị</translation>
+        <translation>Hi?n th?</translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Xóa khỏi danh sách</translation>
+        <translation>Xoa kh?i danh sach</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Xóa</translation>
+        <translation>Xoa</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>Copy tin nhắn</translation>
+        <translation>Copy tin nh?n</translation>
     </message>
     </context>
 <context>
@@ -766,19 +766,19 @@
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>&amp;Copy Địa Chỉ</translation>
+        <translation>&amp;Copy ??a Ch?</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>$Lưu hình ảnh...</translation>
+        <translation>$L?u hinh ?nh...</translation>
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>Yêu cầu thanh toán cho %1</translation>
+        <translation>Yeu c?u thanh toan cho %1</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Thông tin thanh toán</translation>
+        <translation>Thong tin thanh toan</translation>
     </message>
     <message>
         <source>URI</source>
@@ -786,49 +786,49 @@
     </message>
     <message>
         <source>Message</source>
-        <translation>Tin nhắn</translation>
+        <translation>Tin nh?n</translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Lỗi khi encode từ URI thành QR Code</translation>
+        <translation>L?i khi encode t? URI thanh QR Code</translation>
     </message>
 </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Message</source>
-        <translation>Tin nhắn</translation>
+        <translation>Tin nh?n</translation>
     </message>
     <message>
         <source>(no message)</source>
-        <translation>(không tin nhắn)</translation>
+        <translation>(khong tin nh?n)</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Gửi Coins</translation>
+        <translation>G?i Coins</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Tính năng Control Coin</translation>
+        <translation>Tinh n?ng Control Coin</translation>
     </message>
     <message>
         <source>Inputs...</source>
-        <translation>Nhập...</translation>
+        <translation>Nh?p...</translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>Tự động chọn</translation>
+        <translation>T? ??ng ch?n</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Không đủ tiền</translation>
+        <translation>Khong ?? ti?n</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -836,59 +836,59 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Tầm quan trọng:</translation>
+        <translation>T?m quan tr?ng:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Phí:</translation>
+        <translation>Phi:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Sau thuế, phí:</translation>
+        <translation>Sau thu?, phi:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Thay đổi:</translation>
+        <translation>Thay ??i:</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Phí giao dịch</translation>
+        <translation>Phi giao d?ch</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Chọn...</translation>
+        <translation>Ch?n...</translation>
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>Thu gọn fee-settings</translation>
+        <translation>Thu g?n fee-settings</translation>
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>trên KB</translation>
+        <translation>tren KB</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Ẩn</translation>
+        <translation>?n</translation>
     </message>
     <message>
         <source>total at least</source>
-        <translation>Tổng cộng ít nhất</translation>
+        <translation>T?ng c?ng it nh?t</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(Đọc hướng dẫn)</translation>
+        <translation>(??c h??ng d?n)</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
-        <translation>Thời gian xác nhận</translation>
+        <translation>Th?i gian xac nh?n</translation>
     </message>
     <message>
         <source>normal</source>
-        <translation>Bình thường</translation>
+        <translation>Binh th??ng</translation>
     </message>
     <message>
         <source>fast</source>
@@ -896,61 +896,61 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Gửi đến nhiều người nhận trong một lần</translation>
+        <translation>G?i ??n nhi?u ng??i nh?n trong m?t l?n</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>Thêm &amp;Người nhận</translation>
+        <translation>Them &amp;Ng??i nh?n</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Xóa tất cả các trường trong biểu mẫu</translation>
+        <translation>Xoa t?t c? cac tr??ng trong bi?u m?u</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Xóa &amp;Tất cả</translation>
+        <translation>Xoa &amp;T?t c?</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation>Tài khoản</translation>
+        <translation>Tai kho?n</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Xác nhận sự gửi</translation>
+        <translation>Xac nh?n s? g?i</translation>
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation>%1 đến %2</translation>
+        <translation>%1 ??n %2</translation>
     </message>
     <message>
         <source>Total Amount %1</source>
-        <translation>Tổng cộng %1</translation>
+        <translation>T?ng c?ng %1</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>hoặc</translation>
+        <translation>ho?c</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Xác nhận gửi coins</translation>
+        <translation>Xac nh?n g?i coins</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>Lượng:</translation>
+        <translation>L??ng:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Nhãn</translation>
+        <translation>&amp;Nhan</translation>
     </message>
     </context>
 <context>
     <name>SendConfirmationDialog</name>
     <message>
         <source>Yes</source>
-        <translation>Đồng ý</translation>
+        <translation>??ng y</translation>
     </message>
 </context>
 <context>
@@ -960,7 +960,7 @@
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Xóa &amp;Tất cả</translation>
+        <translation>Xoa &amp;T?t c?</translation>
     </message>
     </context>
 <context>
@@ -973,7 +973,7 @@
     <name>TransactionDesc</name>
     <message>
         <source>Message</source>
-        <translation>Tin nhắn</translation>
+        <translation>Tin nh?n</translation>
     </message>
     </context>
 <context>
@@ -995,7 +995,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Gửi Coins</translation>
+        <translation>G?i Coins</translation>
     </message>
 </context>
 <context>
@@ -1005,67 +1005,67 @@
     <name>bitcoin-core</name>
     <message>
         <source>Options:</source>
-        <translation>Lựa chọn:</translation>
+        <translation>L?a ch?n:</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Core</translation>
     </message>
     <message>
         <source>(default: %u)</source>
-        <translation>(mặc định: %u)</translation>
+        <translation>(m?c ??nh: %u)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Thông tin</translation>
+        <translation>Thong tin</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Giao dịch quá lớn</translation>
+        <translation>Giao d?ch qua l?n</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Chú ý</translation>
+        <translation>Chu y</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Đang đọc các địa chỉ...</translation>
+        <translation>?ang ??c cac ??a ch?...</translation>
     </message>
     <message>
         <source>(default: %s)</source>
-        <translation>(mặc định: %s)</translation>
+        <translation>(m?c ??nh: %s)</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Không đủ tiền</translation>
+        <translation>Khong ?? ti?n</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Đang đọc block index...</translation>
+        <translation>?ang ??c block index...</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Đang đọc ví...</translation>
+        <translation>?ang ??c vi...</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>Không downgrade được ví</translation>
+        <translation>Khong downgrade ???c vi</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Không ghi được địa chỉ mặc định</translation>
+        <translation>Khong ghi ???c ??a ch? m?c ??nh</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Đang quét lại...</translation>
+        <translation>?ang quet l?i...</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Đã nạp xong</translation>
+        <translation>?a n?p xong</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation>L?i</translation>
     </message>
 </context>
 </TS>

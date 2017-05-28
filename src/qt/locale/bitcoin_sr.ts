@@ -63,7 +63,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Синхронизација са мрежом у току...</translation>
+        <translation>Синхронизаци?а са мрежом у току...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -71,15 +71,15 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Погледајте општи преглед новчаника</translation>
+        <translation>Погледа?те општи преглед новчаника</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>&amp;Трансакције</translation>
+        <translation>&amp;Трансакци?е</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Претражите историјат трансакција</translation>
+        <translation>Претражите истори?ат трансакци?а</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Прегледајте информације о Qt-у</translation>
+        <translation>Прегледа?те информаци?е о Qt-у</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Шифровање новчаника...</translation>
+        <translation>&amp;Шифрова?е новчаника...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
@@ -114,12 +114,12 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Пошаљите новац на litecoin адресу</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Поша?ите новац на JapariCoin адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Мењање лозинке којом се шифрује новчаник</translation>
+        <translation>Ме?а?е лозинке ко?ом се шифру?е новчаник</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -127,19 +127,19 @@
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Пошаљи</translation>
+        <translation>&amp;Поша?и</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Фајл</translation>
+        <translation>&amp;Фа?л</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Подешавања</translation>
+        <translation>&amp;Подешава?а</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>П&amp;омоћ</translation>
+        <translation>П&amp;омо?</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
@@ -151,23 +151,23 @@
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Ажурирање у току...</translation>
+        <translation>Ажурира?е у току...</translation>
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Послана трансакција</translation>
+        <translation>Послана трансакци?а</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Придошла трансакција</translation>
+        <translation>Придошла трансакци?а</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Новчаник јс &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;откључан&lt;/b&gt;</translation>
+        <translation>Новчаник ?с &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;отк?учан&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Новчаник јс &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;закључан&lt;/b&gt;</translation>
+        <translation>Новчаник ?с &lt;b&gt;шифрован&lt;/b&gt; и тренутно &lt;b&gt;зак?учан&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -211,11 +211,11 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>верзија</translation>
+        <translation>верзи?а</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Korišćenje:</translation>
+        <translation>Kori??enje:</translation>
     </message>
     </context>
 <context>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Јединица за приказивање износа:</translation>
+        <translation>&amp;?единица за приказива?е износа:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -298,7 +298,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Слање новца</translation>
+        <translation>Сла?е новца</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -306,11 +306,11 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Потврди акцију слања</translation>
+        <translation>Потврди акци?у сла?а</translation>
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>&amp;Пошаљи</translation>
+        <translation>&amp;Поша?и</translation>
     </message>
     </context>
 <context>
@@ -411,7 +411,7 @@
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>Korisničko ime za JSON-RPC konekcije</translation>
+        <translation>Korisni?ko ime za JSON-RPC konekcije</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
@@ -419,11 +419,11 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>učitavam adrese....</translation>
+        <translation>u?itavam adrese....</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Učitavam blok indeksa...</translation>
+        <translation>U?itavam blok indeksa...</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
@@ -435,7 +435,7 @@
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Završeno učitavanje</translation>
+        <translation>Zavr?eno u?itavanje</translation>
     </message>
     </context>
 </TS>

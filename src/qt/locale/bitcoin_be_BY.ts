@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Правы клік, каб рэдагаваць адрас ці метку</translation>
+        <translation>Правы кл?к, каб рэдагаваць адрас ц? метку</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -15,23 +15,23 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Капіяваць пазначаны адрас у сістэмны буфер абмену</translation>
+        <translation>Кап?яваць пазначаны адрас у с?стэмны буфер абмену</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Капіяваць</translation>
+        <translation>Кап?яваць</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Зачыніць</translation>
+        <translation>Зачын?ць</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Выдаліць абраны адрас са спісу</translation>
+        <translation>Выдал?ць абраны адрас са сп?су</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Экспартаваць гэтыя звесткі у файл</translation>
+        <translation>Экспартаваць гэтыя звестк? у файл</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>Выдаліць</translation>
+        <translation>Выдал?ць</translation>
     </message>
     </context>
 <context>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Увядзіце кодавую фразу</translation>
+        <translation>Увядз?це кодавую фразу</translation>
     </message>
     <message>
         <source>New passphrase</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Паўтарыце новую кодавую фразу</translation>
+        <translation>Па?тарыце новую кодавую фразу</translation>
     </message>
     </context>
 <context>
@@ -71,11 +71,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Падпісаць паведамленне...</translation>
+        <translation>Падп?саць паведамленне...</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Сінхранізацыя з сецівам...</translation>
+        <translation>С?нхран?зацыя з сец?вам...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -87,23 +87,23 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Паказвае агульныя звесткі аб гаманцы</translation>
+        <translation>Паказвае агульныя звестк? аб гаманцы</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
-        <translation>Транзакцыі</translation>
+        <translation>Транзакцы?</translation>
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Праглядзець гісторыю транзакцый</translation>
+        <translation>Праглядзець г?сторыю транзакцый</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>Выйсці</translation>
+        <translation>Выйсц?</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Выйсці з праграмы</translation>
+        <translation>Выйсц? з праграмы</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -111,11 +111,11 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Паказаць інфармацыю аб Qt</translation>
+        <translation>Паказаць ?нфармацыю аб Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>Опцыі...</translation>
+        <translation>Опцы?...</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>Стварыць копію гаманца...</translation>
+        <translation>Стварыць коп?ю гаманца...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -143,35 +143,35 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Пераіндэксацыя блокаў на дыску...</translation>
+        <translation>Пера?ндэксацыя блока? на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Даслаць манеты на Litecoin-адрас</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Даслаць манеты на JapariCoin-адрас</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Зрабіце копію гаманца ў іншае месца</translation>
+        <translation>Зраб?це коп?ю гаманца ? ?ншае месца</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Змяніць пароль шыфравання гаманца</translation>
+        <translation>Змян?ць пароль шыфравання гаманца</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>Вакно адладкі</translation>
+        <translation>Вакно адладк?</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Адкрыць кансоль дыягностыкі і адладкі</translation>
+        <translation>Адкрыць кансоль дыягностык? ? адладк?</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -191,19 +191,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Паказаць альбо схаваць галоўнае вакно</translation>
+        <translation>Паказаць альбо схаваць гало?нае вакно</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Падпісаць паведамленне з дапамогай Litecoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Sign messages with your JapariCoin addresses to prove you own them</source>
+        <translation>Падп?саць паведамленне з дапамогай JapariCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Спраўдзіць паведамленне з дапамогай Litecoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Verify messages to ensure they were signed with specified JapariCoin addresses</source>
+        <translation>Спра?дз?ць паведамленне з дапамогай JapariCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -211,63 +211,63 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>Наладкі</translation>
+        <translation>Наладк?</translation>
     </message>
     <message>
         <source>&amp;Help</source>
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Запатрабаваць плацёж (генеруецца QR-код для Litecoin URI)</translation>
+        <source>Request payments (generates QR codes and JapariCoin: URIs)</source>
+        <translation>Запатрабаваць плацёж (генеруецца QR-код для JapariCoin URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Паказаць спіс адрасоў і метак для дасылання</translation>
+        <translation>Паказаць сп?с адрасо? ? метак для дасылання</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Паказаць спіс адрасоў і метак для прымання</translation>
+        <translation>Паказаць сп?с адрасо? ? метак для прымання</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Адкрыць Litecoin: URI ці запыт плацяжу</translation>
+        <source>Open a JapariCoin: URI or payment request</source>
+        <translation>Адкрыць JapariCoin: URI ц? запыт плацяжу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>Опцыі каманднага радка</translation>
+        <translation>Опцы? каманднага радка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n актыўнае злучэнне з сецівам Litecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Litecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Litecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Litecoin</numerusform></translation>
+        <source>%n active connection(s) to JapariCoin network</source>
+        <translation><numerusform>%n акты?нае злучэнне з сец?вам JapariCoin</numerusform><numerusform>%n акты?ных злучэння? з сец?вам JapariCoin</numerusform><numerusform>%n акты?ных злучэння? з сец?вам JapariCoin</numerusform><numerusform>%n акты?ных злучэння? з сец?вам JapariCoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
-        <translation>Крыніца блокаў недасяжная...</translation>
+        <translation>Крын?ца блока? недасяжная...</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
-        <translation><numerusform>Апрацаваны %n блок гісторыі транзакцый.</numerusform><numerusform>Апрацавана %n блокі гісторыі транзакцый.</numerusform><numerusform>Апрацавана %n блокаў гісторыі транзакцый.</numerusform><numerusform>Апрацавана %n блокаў гісторыі транзакцый.</numerusform></translation>
+        <translation><numerusform>Апрацаваны %n блок г?сторы? транзакцый.</numerusform><numerusform>Апрацавана %n блок? г?сторы? транзакцый.</numerusform><numerusform>Апрацавана %n блока? г?сторы? транзакцый.</numerusform><numerusform>Апрацавана %n блока? г?сторы? транзакцый.</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation><numerusform>%n гадзіна</numerusform><numerusform>%n гадзіны</numerusform><numerusform>%n гадзін</numerusform><numerusform>%n гадзін</numerusform></translation>
+        <translation><numerusform>%n гадз?на</numerusform><numerusform>%n гадз?ны</numerusform><numerusform>%n гадз?н</numerusform><numerusform>%n гадз?н</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation><numerusform>%n дзень</numerusform><numerusform>%n дні</numerusform><numerusform>%n дзён</numerusform><numerusform>%n дзён</numerusform></translation>
+        <translation><numerusform>%n дзень</numerusform><numerusform>%n дн?</numerusform><numerusform>%n дзён</numerusform><numerusform>%n дзён</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n тыдзень</numerusform><numerusform>%n тыдні</numerusform><numerusform>%n тыдняў</numerusform><numerusform>%n тыдняў</numerusform></translation>
+        <translation><numerusform>%n тыдзень</numerusform><numerusform>%n тыдн?</numerusform><numerusform>%n тыдня?</numerusform><numerusform>%n тыдня?</numerusform></translation>
     </message>
     <message>
         <source>%1 and %2</source>
-        <translation>%1 і %2</translation>
+        <translation>%1 ? %2</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n год</numerusform><numerusform>%n гады</numerusform><numerusform>%n гадоў</numerusform><numerusform>%n гадоў</numerusform></translation>
+        <translation><numerusform>%n год</numerusform><numerusform>%n гады</numerusform><numerusform>%n гадо?</numerusform><numerusform>%n гадо?</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>Апошні прыняты блок генераваны %1 таму.</translation>
+        <translation>Апошн? прыняты блок генераваны %1 таму.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
@@ -291,11 +291,11 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>?нфармацыя</translation>
     </message>
     <message>
         <source>Up to date</source>
-        <translation>Сінхранізавана</translation>
+        <translation>С?нхран?завана</translation>
     </message>
     <message>
         <source>Catching up...</source>
@@ -333,19 +333,19 @@
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Дасланыя транзакцыі</translation>
+        <translation>Дасланыя транзакцы?</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Прынятыя транзакцыі</translation>
+        <translation>Прынятыя транзакцы?</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Гаманец &lt;b&gt;зашыфраваны&lt;/b&gt; і зараз &lt;b&gt;разблакаваны&lt;/b&gt;</translation>
+        <translation>Гаманец &lt;b&gt;зашыфраваны&lt;/b&gt; ? зараз &lt;b&gt;разблакаваны&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Гаманец &lt;b&gt;зашыфраваны&lt;/b&gt; і зараз &lt;b&gt;заблакаваны&lt;/b&gt;</translation>
+        <translation>Гаманец &lt;b&gt;зашыфраваны&lt;/b&gt; ? зараз &lt;b&gt;заблакаваны&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,7 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Байтаў:</translation>
+        <translation>Байта?:</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -368,7 +368,7 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Камісія:</translation>
+        <translation>Кам?с?я:</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -376,11 +376,11 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Пасля камісіі:</translation>
+        <translation>Пасля кам?с??:</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(не)выбраць ўсё</translation>
+        <translation>(не)выбраць ?сё</translation>
     </message>
     <message>
         <source>Tree mode</source>
@@ -388,7 +388,7 @@
     </message>
     <message>
         <source>List mode</source>
-        <translation>Рэжым спіса</translation>
+        <translation>Рэжым сп?са</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Пацверджанняў</translation>
+        <translation>Пацверджання?</translation>
     </message>
     <message>
         <source>Confirmed</source>
@@ -438,26 +438,26 @@
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>Будзе створаны новы каталог з данымі.</translation>
+        <translation>Будзе створаны новы каталог з даным?.</translation>
     </message>
     <message>
         <source>name</source>
-        <translation>імя</translation>
+        <translation>?мя</translation>
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Каталог ужо існуе. Дадайце %1 калі вы збіраецеся стварыць тут новы каталог.</translation>
+        <translation>Каталог ужо ?снуе. Дадайце %1 кал? вы зб?раецеся стварыць тут новы каталог.</translation>
     </message>
     </context>
 <context>
     <name>HelpMessageDialog</name>
     <message>
         <source>(%1-bit)</source>
-        <translation>(%1-біт)</translation>
+        <translation>(%1-б?т)</translation>
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>Опцыі каманднага радка</translation>
+        <translation>Опцы? каманднага радка</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -465,14 +465,14 @@
     </message>
     <message>
         <source>command-line options</source>
-        <translation>опцыі каманднага радка</translation>
+        <translation>опцы? каманднага радка</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Вітаем</translation>
+        <translation>В?таем</translation>
     </message>
     <message>
         <source>Error</source>
@@ -498,7 +498,7 @@
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation>Опцыі</translation>
+        <translation>Опцы?</translation>
     </message>
     <message>
         <source>MB</source>
@@ -536,11 +536,11 @@
     <name>RPCConsole</name>
     <message>
         <source>&amp;Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>?нфармацыя</translation>
     </message>
     <message>
         <source>Debug window</source>
-        <translation>Вакно адладкі</translation>
+        <translation>Вакно адладк?</translation>
     </message>
     </context>
 <context>
@@ -558,7 +558,7 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Капіяваць адрас</translation>
+        <translation>Кап?яваць адрас</translation>
     </message>
     </context>
 <context>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Недастаткова сродкаў</translation>
+        <translation>Недастаткова сродка?</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -580,7 +580,7 @@
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Байтаў:</translation>
+        <translation>Байта?:</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -592,15 +592,15 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Камісія:</translation>
+        <translation>Кам?с?я:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Пасля камісіі:</translation>
+        <translation>Пасля кам?с??:</translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Даслаць адразу некалькім атрымальнікам</translation>
+        <translation>Даслаць адразу некальк?м атрымальн?кам</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -612,7 +612,7 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Пацвердзіць дасыланне</translation>
+        <translation>Пацвердз?ць дасыланне</translation>
     </message>
     </context>
 <context>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>Pay &amp;To:</source>
-        <translation>Заплаціць да:</translation>
+        <translation>Заплац?ць да:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -635,7 +635,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Уставіць адрас з буферу абмена</translation>
+        <translation>Устав?ць адрас з буферу абмена</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -647,7 +647,7 @@
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Заплаціць да:</translation>
+        <translation>Заплац?ць да:</translation>
     </message>
     <message>
         <source>Memo:</source>
@@ -668,7 +668,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Уставіць адрас з буферу абмена</translation>
+        <translation>Устав?ць адрас з буферу абмена</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -696,7 +696,7 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Гэтая панэль паказвае дэтальнае апісанне транзакцыі</translation>
+        <translation>Гэтая панэль паказвае дэтальнае ап?санне транзакцы?</translation>
     </message>
     </context>
 <context>
@@ -721,7 +721,7 @@
     <name>bitcoin-core</name>
     <message>
         <source>Options:</source>
-        <translation>Опцыі:</translation>
+        <translation>Опцы?:</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -729,35 +729,35 @@
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Прымаць камандны радок і JSON-RPC каманды</translation>
+        <translation>Прымаць камандны радок ? JSON-RPC каманды</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Запусціць у фоне як дэман і прымаць каманды</translation>
+        <translation>Запусц?ць у фоне як дэман ? прымаць каманды</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Ці жадаеце вы перабудаваць зараз базу звестак блокаў?</translation>
+        <translation>Ц? жадаеце вы перабудаваць зараз базу звестак блока??</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Памылка ініцыялізацыі базвы звестак блокаў</translation>
+        <translation>Памылка ?н?цыял?зацы? базвы звестак блока?</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Памалка ініцыялізацыі асяроддзя базы звестак гаманца %s!</translation>
+        <translation>Памалка ?н?цыял?зацы? асяроддзя базы звестак гаманца %s!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>Памылка загрузкі базвы звестак блокаў</translation>
+        <translation>Памылка загрузк? базвы звестак блока?</translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Памылка адчынення базы звестак блокаў</translation>
+        <translation>Памылка адчынення базы звестак блока?</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
@@ -765,11 +765,11 @@
     </message>
     <message>
         <source>Importing...</source>
-        <translation>Імпартаванне...</translation>
+        <translation>?мпартаванне...</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>Не хапае файлавых дэскрыптараў.</translation>
+        <translation>Не хапае файлавых дэскрыптара?.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>Праверка блокаў...</translation>
+        <translation>Праверка блока?...</translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
@@ -785,23 +785,23 @@
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Опцыі гаманца:</translation>
+        <translation>Опцы? гаманца:</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>?нфармацыя</translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>Опцыі RPC сервера:</translation>
+        <translation>Опцы? RPC сервера:</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Слаць trace/debug звесткі ў кансоль замест файла debug.log</translation>
+        <translation>Слаць trace/debug звестк? ? кансоль замест файла debug.log</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>Памылка подпісу транзакцыі</translation>
+        <translation>Памылка подп?су транзакцы?</translation>
     </message>
     <message>
         <source>This is experimental software.</source>
@@ -813,11 +813,11 @@
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Транзакцыя занадта вялікая</translation>
+        <translation>Транзакцыя занадта вял?кая</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>Імя карыстальника для JSON-RPC злучэнняў</translation>
+        <translation>?мя карыстальника для JSON-RPC злучэння?</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -825,11 +825,11 @@
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>Пароль для JSON-RPC злучэнняў</translation>
+        <translation>Пароль для JSON-RPC злучэння?</translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Выканаць каманду калі лепшы блок зменіцца (%s замяняецца на хэш блока)</translation>
+        <translation>Выканаць каманду кал? лепшы блок змен?цца (%s замяняецца на хэш блока)</translation>
     </message>
     <message>
         <source>Loading addresses...</source>
@@ -837,11 +837,11 @@
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Недастаткова сродкаў</translation>
+        <translation>Недастаткова сродка?</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Загружаем індэкс блокаў...</translation>
+        <translation>Загружаем ?ндэкс блока?...</translation>
     </message>
     <message>
         <source>Loading wallet...</source>

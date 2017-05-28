@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>按右擊修改位址或標記</translation>
+        <translation>按右?修改位址或標記</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>把目前分頁的資料匯出至檔案</translation>
+        <translation>把目前分頁的資料匯出至?案</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>與網絡同步中...</translation>
+        <translation>與網絡同?中...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>瀏覽交易紀錄</translation>
+        <translation>瀏覽交易紀?</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>備份錢包... &amp;B</translation>
+        <translation>備?錢包... &amp;B</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -151,15 +151,15 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>正在為磁碟區塊重建索引...</translation>
+        <translation>正在為磁?區塊重建索引...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>付款至一個 Litecoin 位址</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>付款至一個 JapariCoin 位址</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>把錢包備份到其它地方</translation>
+        <translation>把錢包備?到其它地方</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -178,8 +178,8 @@
         <translation>驗證訊息... &amp;V</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>

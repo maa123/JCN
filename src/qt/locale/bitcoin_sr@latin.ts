@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Klikni desnim tasterom za uređivanje adrese ili oznake</translation>
+        <translation>Klikni desnim tasterom za ure?ivanje adrese ili oznake</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Briše trenutno izabranu adresu sa liste</translation>
+        <translation>Bri?e trenutno izabranu adresu sa liste</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
@@ -65,27 +65,27 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Unesite novu pristupnu frazu u novčanik. &lt;br/&gt;Molimo, koristite pristupnu frazu koja ima &lt;b&gt; deset ili više nasumičnih znakova&lt;/b&gt;, ili &lt;b&gt;osam ili više reči&lt;/b&gt;.</translation>
+        <translation>Unesite novu pristupnu frazu u nov?anik. &lt;br/&gt;Molimo, koristite pristupnu frazu koja ima &lt;b&gt; deset ili vi?e nasumi?nih znakova&lt;/b&gt;, ili &lt;b&gt;osam ili vi?e re?i&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Šifrujte novčanik</translation>
+        <translation>?ifrujte nov?anik</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Da biste otključali novčanik potrebno je da unesete svoju pristupnu frazu.</translation>
+        <translation>Da biste otklju?ali nov?anik potrebno je da unesete svoju pristupnu frazu.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Otključajte novčanik</translation>
+        <translation>Otklju?ajte nov?anik</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Da biste dešifrovali novčanik, potrebno je da unesete svoju pristupnu frazu.</translation>
+        <translation>Da biste de?ifrovali nov?anik, potrebno je da unesete svoju pristupnu frazu.</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Dešifrujte novčanik</translation>
+        <translation>De?ifrujte nov?anik</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -93,23 +93,23 @@
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>Unesite u novčanik staru pristupnu frazu i novu pristupnu frazu.</translation>
+        <translation>Unesite u nov?anik staru pristupnu frazu i novu pristupnu frazu.</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Potvrdite šifrovanje novčanika</translation>
+        <translation>Potvrdite ?ifrovanje nov?anika</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrujete svoj novčanik, i potom izgubite svoju pristupnu frazu &lt;b&gt;IZGUBIĆETE SVE SVOJE BITKOINE&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR JapariCoinS&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako ?ifrujete svoj nov?anik, i potom izgubite svoju pristupnu frazu &lt;b&gt;IZGUBI?ETE SVE SVOJE BITKOINE&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Da li ste sigurni da želite da šifrujete svoj novčanik?</translation>
+        <translation>Da li ste sigurni da ?elite da ?ifrujete svoj nov?anik?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Novčanik je šifrovan</translation>
+        <translation>Nov?anik je ?ifrovan</translation>
     </message>
     </context>
 <context>
@@ -127,7 +127,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Usklađivanje sa mrežom...</translation>
+        <translation>Uskla?ivanje sa mre?om...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Isključi aplikaciju</translation>
+        <translation>Isklju?i aplikaciju</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -158,24 +158,24 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Pošalji novčiće na Litecoin adresu</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Po?alji nov?i?e na JapariCoin adresu</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Novčanik</translation>
+        <translation>Nov?anik</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Pošalji</translation>
+        <translation>&amp;Po?alji</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -187,15 +187,15 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Prikaži ili sakrij glavni prozor</translation>
+        <translation>Prika?i ili sakrij glavni prozor</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Podešavanja</translation>
+        <translation>&amp;Pode?avanja</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Pomoć</translation>
+        <translation>&amp;Pomo?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -248,7 +248,7 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation>Količina:</translation>
+        <translation>Koli?ina:</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -348,7 +348,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation>Količina:</translation>
+        <translation>Koli?ina:</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -412,8 +412,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Core</translation>
     </message>
     <message>
         <source>Information</source>

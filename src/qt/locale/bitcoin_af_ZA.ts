@@ -78,8 +78,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Lêer</translation>
+        <translation>&amp;Leer</translation>
     </message>
     <message>
         <source>&amp;Settings</source>

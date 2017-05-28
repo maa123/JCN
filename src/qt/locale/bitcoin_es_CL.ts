@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Haga clic para editar la dirección o etiqueta</translation>
+        <translation>Haga clic para editar la direccion o etiqueta</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Crea una nueva dirección</translation>
+        <translation>Crea una nueva direccion</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copia la dirección seleccionada al portapapeles</translation>
+        <translation>Copia la direccion seleccionada al portapapeles</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -27,11 +27,11 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Eliminar la dirección seleccionada de la lista</translation>
+        <translation>Eliminar la direccion seleccionada de la lista</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportar los datos de la pestaña actual a un archivo</translation>
+        <translation>Exportar los datos de la pestana actual a un archivo</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -49,15 +49,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Introduce contraseña actual      </translation>
+        <translation>Introduce contrasena actual      </translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Nueva contraseña</translation>
+        <translation>Nueva contrasena</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Repite nueva contraseña</translation>
+        <translation>Repite nueva contrasena</translation>
     </message>
     </context>
 <context>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Explora el historial de transacciónes</translation>
+        <translation>Explora el historial de transacciones</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Mostrar Información sobre Qt</translation>
+        <translation>Mostrar Informacion sobre Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Cambiar la contraseña...</translation>
+        <translation>&amp;Cambiar la contrasena...</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
@@ -142,16 +142,16 @@
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedas a una dirección litecoin</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Enviar monedas a una direccion JapariCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Respaldar billetera en otra ubicación</translation>
+        <translation>Respaldar billetera en otra ubicacion</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña utilizada para la codificación de la billetera</translation>
+        <translation>Cambiar la contrasena utilizada para la codificacion de la billetera</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -159,15 +159,15 @@
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Abre consola de depuración y diagnóstico</translation>
+        <translation>Abre consola de depuracion y diagnostico</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>Verificar mensaje....</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Envía</translation>
+        <translation>&amp;Envia</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -186,8 +186,8 @@
         <translation>&amp;Mostrar/Ocultar</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
+        <source>Sign messages with your JapariCoin addresses to prove you own them</source>
+        <translation>Firmar un mensaje para provar que usted es dueno de esta direccion</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Configuración</translation>
+        <translation>&amp;Configuracion</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -203,11 +203,11 @@
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Barra de pestañas</translation>
+        <translation>Barra de pestanas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and litecoin: URls)</translation>
+        <source>Request payments (generates QR codes and JapariCoin: URIs)</source>
+        <translation>Pide pagos (genera codigos QR and JapariCoin: URls)</translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -219,11 +219,11 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Atención</translation>
+        <translation>Atencion</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Informacion</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -235,11 +235,11 @@
     </message>
     <message>
         <source>Sent transaction</source>
-        <translation>Transacción enviada</translation>
+        <translation>Transaccion enviada</translation>
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Transacción entrante</translation>
+        <translation>Transaccion entrante</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>comisión:
+        <translation>comision:
 </translation>
     </message>
     <message>
@@ -290,7 +290,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Editar dirección</translation>
+        <translation>Editar direccion</translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>&amp;Address</source>
-        <translation>&amp;Dirección</translation>
+        <translation>&amp;Direccion</translation>
     </message>
     </context>
 <context>
@@ -312,7 +312,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>version</source>
-        <translation>versión</translation>
+        <translation>version</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -368,8 +368,8 @@
         <translation>experto</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Litecoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the JapariCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automaticamente el puerto del cliente JapariCoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y esta habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Muestra solo un ícono en la bandeja después de minimizar la ventana</translation>
+        <translation>Muestra solo un icono en la bandeja despues de minimizar la ventana</translation>
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Elige la subdivisión por defecto para mostrar cantidaded en la interfaz cuando se envien monedas</translation>
+        <translation>Elige la subdivision por defecto para mostrar cantidaded en la interfaz cuando se envien monedas</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -472,11 +472,11 @@
     </message>
     <message>
         <source>Client version</source>
-        <translation>Versión del Cliente</translation>
+        <translation>Version del Cliente</translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;Información</translation>
+        <translation>&amp;Informacion</translation>
     </message>
     <message>
         <source>Debug window</source>
@@ -500,7 +500,7 @@
     </message>
     <message>
         <source>Number of connections</source>
-        <translation>Número de conexiones</translation>
+        <translation>Numero de conexiones</translation>
     </message>
     <message>
         <source>Block chain</source>
@@ -547,11 +547,11 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>QR Code</source>
-        <translation>Código QR </translation>
+        <translation>Codigo QR </translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>&amp;Copia dirección</translation>
+        <translation>&amp;Copia direccion</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
@@ -581,12 +581,12 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>comisión:
+        <translation>comision:
 </translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Comisión transacción:</translation>
+        <translation>Comision transaccion:</translation>
     </message>
     <message>
         <source>normal</source>
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Enviar a múltiples destinatarios</translation>
+        <translation>Enviar a multiples destinatarios</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>S&amp;end</source>
-        <translation>&amp;Envía</translation>
+        <translation>&amp;Envia</translation>
     </message>
     </context>
 <context>
@@ -641,7 +641,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pega dirección desde portapapeles</translation>
+        <translation>Pega direccion desde portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -674,7 +674,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pega dirección desde portapapeles</translation>
+        <translation>Pega direccion desde portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -689,8 +689,8 @@
         <translation>Firma</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
+        <source>Sign the message to prove you own this JapariCoin address</source>
+        <translation>Firmar un mensjage para probar que usted es dueno de esta direccion</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -730,7 +730,7 @@
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Esta ventana muestra información detallada sobre la transacción</translation>
+        <translation>Esta ventana muestra informacion detallada sobre la transaccion</translation>
     </message>
     </context>
 <context>
@@ -774,8 +774,8 @@
 </translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>litecoin core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin core</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -788,11 +788,11 @@
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>Atención: Poco espacio en el disco duro</translation>
+        <translation>Atencion: Poco espacio en el disco duro</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Informacion</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -805,25 +805,25 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation>Atención</translation>
+        <translation>Atencion</translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>Contraseña para las conexiones JSON-RPC
+        <translation>Contrasena para las conexiones JSON-RPC
 </translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Permite búsqueda DNS para addnode y connect
+        <translation>Permite busqueda DNS para addnode y connect
 </translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Cargando direcciónes...</translation>
+        <translation>Cargando direcciones...</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
-        <translation>Dirección -proxy invalida: '%s'</translation>
+        <translation>Direccion -proxy invalida: '%s'</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -847,7 +847,7 @@
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>No se pudo escribir la dirección por defecto</translation>
+        <translation>No se pudo escribir la direccion por defecto</translation>
     </message>
     <message>
         <source>Rescanning...</source>

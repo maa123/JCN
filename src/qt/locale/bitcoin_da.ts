@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Højreklik for at redigere adresse eller mærke</translation>
+        <translation>Hojreklik for at redigere adresse eller marke</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -15,11 +15,11 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopiér den valgte adresse til systemets udklipsholder</translation>
+        <translation>Kopier den valgte adresse til systemets udklipsholder</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Kopiér</translation>
+        <translation>&amp;Kopier</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
@@ -31,11 +31,11 @@
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Eksportér den aktuelle visning til en fil</translation>
+        <translation>Eksporter den aktuelle visning til en fil</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Eksportér</translation>
+        <translation>&amp;Eksporter</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -43,15 +43,15 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Vælg adresse at sende litecoins til</translation>
+        <translation>Valg adresse at sende JapariCoins til</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Vælg adresse at modtage litecoins med</translation>
+        <translation>Valg adresse at modtage JapariCoins med</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>&amp;Vælg</translation>
+        <translation>&amp;Valg</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -62,28 +62,28 @@
         <translation>Modtagelsesadresser</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine Litecoin-adresser til afsendelse af betalinger. Tjek altid beløb og modtagelsesadresse, inden du sender litecoins.</translation>
+        <source>These are your JapariCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Disse er dine JapariCoin-adresser til afsendelse af betalinger. Tjek altid belob og modtagelsesadresse, inden du sender JapariCoins.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Litecoin-adresser til modtagelse af betalinger. Det anbefales at bruge en ny modtagelsesadresse for hver transaktion.</translation>
+        <source>These are your JapariCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dette er dine JapariCoin-adresser til modtagelse af betalinger. Det anbefales at bruge en ny modtagelsesadresse for hver transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Kopiér adresse</translation>
+        <translation>&amp;Kopier adresse</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Kopiér &amp;mærkat</translation>
+        <translation>Kopier &amp;markat</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Redigér</translation>
+        <translation>&amp;Rediger</translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>Eksportér adresseliste</translation>
+        <translation>Eksporter adresseliste</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
@@ -95,14 +95,14 @@
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Der opstod en fejl under gemning af adresselisten til %1. Prøv venligst igen.</translation>
+        <translation>Der opstod en fejl under gemning af adresselisten til %1. Prov venligst igen.</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Markat</translation>
     </message>
     <message>
         <source>Address</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen markat)</translation>
     </message>
 </context>
 <context>
@@ -133,19 +133,19 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Indtast det nye kodeord til tegnebogen.&lt;br/&gt;Brug venligst et kodeord på &lt;b&gt;ti eller flere tilfældige tegn&lt;/b&gt; eller &lt;b&gt;otte eller flere ord&lt;/b&gt;.</translation>
+        <translation>Indtast det nye kodeord til tegnebogen.&lt;br/&gt;Brug venligst et kodeord pa &lt;b&gt;ti eller flere tilfaldige tegn&lt;/b&gt; eller &lt;b&gt;otte eller flere ord&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Kryptér tegnebog</translation>
+        <translation>Krypter tegnebog</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Denne funktion har brug for din tegnebogs adgangskode for at låse tegnebogen op.</translation>
+        <translation>Denne funktion har brug for din tegnebogs adgangskode for at lase tegnebogen op.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Lås tegnebog op</translation>
+        <translation>Las tegnebog op</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Dekryptér tegnebog</translation>
+        <translation>Dekrypter tegnebog</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -165,27 +165,27 @@
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Bekræft tegnebogskryptering</translation>
+        <translation>Bekraft tegnebogskryptering</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Advarsel: Hvis du krypterer din tegnebog og mister din adgangskode, vil du &lt;b&gt;MISTE ALLE DINE LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR JapariCoinS&lt;/b&gt;!</source>
+        <translation>Advarsel: Hvis du krypterer din tegnebog og mister din adgangskode, vil du &lt;b&gt;MISTE ALLE DINE JapariCoinS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Er du sikker på, at du ønsker at kryptere din tegnebog?</translation>
+        <translation>Er du sikker pa, at du onsker at kryptere din tegnebog?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
         <translation>Tegnebog krypteret</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 vil nu lukke for at færdiggøre krypteringsprocessen. Husk at kryptering af din tegnebog kan ikke beskytte dine litecoin fuldt ud mod at blive stjålet af eventuel malware, der måtte have inficeret din computer.</translation>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your JapariCoins from being stolen by malware infecting your computer.</source>
+        <translation>%1 vil nu lukke for at fardiggore krypteringsprocessen. Husk at kryptering af din tegnebog kan ikke beskytte dine JapariCoin fuldt ud mod at blive stjalet af eventuel malware, der matte have inficeret din computer.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>VIGTIGT: Enhver tidligere sikkerhedskopi, som du har lavet af tegnebogsfilen, bør blive erstattet af den nyligt genererede, krypterede tegnebogsfil. Af sikkerhedsmæssige årsager vil tidligere sikkerhedskopier af den ikke-krypterede tegnebogsfil blive ubrugelige i det øjeblik, du starter med at anvende den nye, krypterede tegnebog.</translation>
+        <translation>VIGTIGT: Enhver tidligere sikkerhedskopi, som du har lavet af tegnebogsfilen, bor blive erstattet af den nyligt genererede, krypterede tegnebogsfil. Af sikkerhedsmassige arsager vil tidligere sikkerhedskopier af den ikke-krypterede tegnebogsfil blive ubrugelige i det ojeblik, du starter med at anvende den nye, krypterede tegnebog.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Tegnebogskryptering mislykkedes på grund af en intern fejl. Din tegnebog blev ikke krypteret.</translation>
+        <translation>Tegnebogskryptering mislykkedes pa grund af en intern fejl. Din tegnebog blev ikke krypteret.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
@@ -201,7 +201,7 @@
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Tegnebogsoplåsning mislykkedes</translation>
+        <translation>Tegnebogsoplasning mislykkedes</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
@@ -213,7 +213,7 @@
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Tegnebogens adgangskode blev ændret.</translation>
+        <translation>Tegnebogens adgangskode blev andret.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -235,11 +235,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Signér &amp;besked…</translation>
+        <translation>Signer &amp;besked…</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Synkroniserer med netværk…</translation>
+        <translation>Synkroniserer med netvark…</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -291,15 +291,15 @@
     </message>
     <message>
         <source>Modify configuration options for %1</source>
-        <translation>Redigér konfigurationsindstillinger for %1</translation>
+        <translation>Rediger konfigurationsindstillinger for %1</translation>
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Kryptér tegnebog…</translation>
+        <translation>&amp;Krypter tegnebog…</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Sikkerhedskopiér tegnebog…</translation>
+        <translation>&amp;Sikkerhedskopier tegnebog…</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -315,15 +315,15 @@
     </message>
     <message>
         <source>Open &amp;URI...</source>
-        <translation>&amp;Åbn URI…</translation>
+        <translation>&amp;Abn URI…</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Genindekserer blokke på disken…</translation>
+        <translation>Genindekserer blokke pa disken…</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Send litecoins til en Litecoin-adresse</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Send JapariCoins til en JapariCoin-adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -335,19 +335,19 @@
     </message>
     <message>
         <source>&amp;Debug window</source>
-        <translation>&amp;Fejlsøgningsvindue</translation>
+        <translation>&amp;Fejlsogningsvindue</translation>
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åbn fejlsøgnings- og diagnosticeringskonsollen</translation>
+        <translation>Abn fejlsognings- og diagnosticeringskonsollen</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Verificér besked…</translation>
+        <translation>&amp;Verificer besked…</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -371,15 +371,15 @@
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Kryptér de private nøgler, der hører til din tegnebog</translation>
+        <translation>Krypter de private nogler, der horer til din tegnebog</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Signér beskeder med dine Litecoin-adresser for at bevise, at de tilhører dig</translation>
+        <source>Sign messages with your JapariCoin addresses to prove you own them</source>
+        <translation>Signer beskeder med dine JapariCoin-adresser for at bevise, at de tilhorer dig</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verificér beskeder for at sikre, at de er signeret med de angivne Litecoin-adresser</translation>
+        <source>Verify messages to ensure they were signed with specified JapariCoin addresses</source>
+        <translation>Verificer beskeder for at sikre, at de er signeret med de angivne JapariCoin-adresser</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -387,51 +387,51 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Opsætning</translation>
+        <translation>&amp;Opsatning</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Hjælp</translation>
+        <translation>&amp;Hjalp</translation>
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Faneværktøjslinje</translation>
+        <translation>Fanevarktojslinje</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Anmod om betalinger (genererer QR-koder og "litecoin:"-URI'er)</translation>
+        <source>Request payments (generates QR codes and JapariCoin: URIs)</source>
+        <translation>Anmod om betalinger (genererer QR-koder og "JapariCoin:"-URI'er)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Vis listen over brugte afsendelsesadresser og -mærkater</translation>
+        <translation>Vis listen over brugte afsendelsesadresser og -markater</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
-        <translation>Vis listen over brugte modtagelsesadresser og -mærkater</translation>
+        <translation>Vis listen over brugte modtagelsesadresser og -markater</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Åbn en "litecoin:"-URI eller betalingsanmodning</translation>
+        <source>Open a JapariCoin: URI or payment request</source>
+        <translation>Abn en "JapariCoin:"-URI eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Tilvalg for &amp;kommandolinje</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til Litecoin-netværket</numerusform><numerusform>%n aktive forbindelser til Litecoin-netværket</numerusform></translation>
+        <source>%n active connection(s) to JapariCoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til JapariCoin-netvarket</numerusform><numerusform>%n aktive forbindelser til JapariCoin-netvarket</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>Genindekserer blokke på disken…</translation>
+        <translation>Genindekserer blokke pa disken…</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
-        <translation>Bearbejder blokke på disken…</translation>
+        <translation>Bearbejder blokke pa disken…</translation>
     </message>
     <message>
         <source>No block source available...</source>
-        <translation>Ingen blokkilde tilgængelig…</translation>
+        <translation>Ingen blokkilde tilgangelig…</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -455,7 +455,7 @@
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation><numerusform>%n år</numerusform><numerusform>%n år</numerusform></translation>
+        <translation><numerusform>%n ar</numerusform><numerusform>%n ar</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -467,7 +467,7 @@
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Transaktioner herefter vil endnu ikke være synlige.</translation>
+        <translation>Transaktioner herefter vil endnu ikke vare synlige.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -486,8 +486,8 @@
         <translation>Opdateret</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>Vis %1 hjælpebesked for at få en liste over mulige tilvalg for Litecoin kommandolinje</translation>
+        <source>Show the %1 help message to get a list with possible JapariCoin command-line options</source>
+        <translation>Vis %1 hjalpebesked for at fa en liste over mulige tilvalg for JapariCoin kommandolinje</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -506,7 +506,7 @@
     <message>
         <source>Amount: %1
 </source>
-        <translation>Beløb: %1
+        <translation>Belob: %1
 </translation>
     </message>
     <message>
@@ -518,7 +518,7 @@
     <message>
         <source>Label: %1
 </source>
-        <translation>Mærkat: %1
+        <translation>Markat: %1
 </translation>
     </message>
     <message>
@@ -533,15 +533,15 @@
     </message>
     <message>
         <source>Incoming transaction</source>
-        <translation>Indgående transaktion</translation>
+        <translation>Indgaende transaktion</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;ulåst&lt;/b&gt;</translation>
+        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i ojeblikket &lt;b&gt;ulast&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;låst&lt;/b&gt;</translation>
+        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i ojeblikket &lt;b&gt;last&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -552,7 +552,7 @@
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Mængde:</translation>
+        <translation>Mangde:</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Beløb:</translation>
+        <translation>Belob:</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Støv:</translation>
+        <translation>Stov:</translation>
     </message>
     <message>
         <source>After Fee:</source>
@@ -584,11 +584,11 @@
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(af)vælg alle</translation>
+        <translation>(af)valg alle</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation>Trætilstand</translation>
+        <translation>Tratilstand</translation>
     </message>
     <message>
         <source>List mode</source>
@@ -596,11 +596,11 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belob</translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>Modtaget med mærke</translation>
+        <translation>Modtaget med marke</translation>
     </message>
     <message>
         <source>Received with address</source>
@@ -612,11 +612,11 @@
     </message>
     <message>
         <source>Confirmations</source>
-        <translation>Bekræftelser</translation>
+        <translation>Bekraftelser</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Bekræftet</translation>
+        <translation>Bekraftet</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -624,71 +624,71 @@
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Kopiér adresse</translation>
+        <translation>Kopier adresse</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Kopiér mærkat</translation>
+        <translation>Kopier markat</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Kopiér beløb</translation>
+        <translation>Kopier belob</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Kopiér transaktions-ID</translation>
+        <translation>Kopier transaktions-ID</translation>
     </message>
     <message>
         <source>Lock unspent</source>
-        <translation>Fastlås ubrugte</translation>
+        <translation>Fastlas ubrugte</translation>
     </message>
     <message>
         <source>Unlock unspent</source>
-        <translation>Lås ubrugte op</translation>
+        <translation>Las ubrugte op</translation>
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Kopiér mængde</translation>
+        <translation>Kopier mangde</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Kopiér gebyr</translation>
+        <translation>Kopier gebyr</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Kopiér eftergebyr</translation>
+        <translation>Kopier eftergebyr</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>Kopiér byte</translation>
+        <translation>Kopier byte</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>Kopiér prioritet</translation>
+        <translation>Kopier prioritet</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>Kopiér støv</translation>
+        <translation>Kopier stov</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Kopiér byttepenge</translation>
+        <translation>Kopier byttepenge</translation>
     </message>
     <message>
         <source>highest</source>
-        <translation>højest</translation>
+        <translation>hojest</translation>
     </message>
     <message>
         <source>higher</source>
-        <translation>højere</translation>
+        <translation>hojere</translation>
     </message>
     <message>
         <source>high</source>
-        <translation>højt</translation>
+        <translation>hojt</translation>
     </message>
     <message>
         <source>medium-high</source>
-        <translation>mellemhøjt</translation>
+        <translation>mellemhojt</translation>
     </message>
     <message>
         <source>medium</source>
@@ -712,7 +712,7 @@
     </message>
     <message>
         <source>(%1 locked)</source>
-        <translation>(%1 fastlåst)</translation>
+        <translation>(%1 fastlast)</translation>
     </message>
     <message>
         <source>none</source>
@@ -728,11 +728,11 @@
     </message>
     <message>
         <source>This label turns red if the transaction size is greater than 1000 bytes.</source>
-        <translation>Denne mærkat bliver rød, hvis transaktionsstørrelsen er større end 1000 byte.</translation>
+        <translation>Denne markat bliver rod, hvis transaktionsstorrelsen er storre end 1000 byte.</translation>
     </message>
     <message>
         <source>This means a fee of at least %1 per kB is required.</source>
-        <translation>Dette betyder, at et gebyr på mindst %1 pr. kB er nødvendigt.</translation>
+        <translation>Dette betyder, at et gebyr pa mindst %1 pr. kB er nodvendigt.</translation>
     </message>
     <message>
         <source>Can vary +/- 1 byte per input.</source>
@@ -740,15 +740,15 @@
     </message>
     <message>
         <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>Transaktioner med højere prioritet har højere sansynlighed for at blive inkluderet i en blok.</translation>
+        <translation>Transaktioner med hojere prioritet har hojere sansynlighed for at blive inkluderet i en blok.</translation>
     </message>
     <message>
         <source>This label turns red if the priority is smaller than "medium".</source>
-        <translation>Denne mærkat bliver rød, hvis prioriteten er mindre end "medium".</translation>
+        <translation>Denne markat bliver rod, hvis prioriteten er mindre end "medium".</translation>
     </message>
     <message>
         <source>This label turns red if any recipient receives an amount smaller than the current dust threshold.</source>
-        <translation>Denne mærkat bliver rød, hvis en eller flere modtagere modtager et beløb, der er mindre end den aktuelle støvgrænse.</translation>
+        <translation>Denne markat bliver rod, hvis en eller flere modtagere modtager et belob, der er mindre end den aktuelle stovgranse.</translation>
     </message>
     <message>
         <source>Can vary +/- %1 satoshi(s) per input.</source>
@@ -756,7 +756,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen markat)</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
@@ -771,19 +771,19 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Redigér adresse</translation>
+        <translation>Rediger adresse</translation>
     </message>
     <message>
         <source>&amp;Label</source>
-        <translation>&amp;Mærkat</translation>
+        <translation>&amp;Markat</translation>
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Mærkatet, der er associeret med denne indgang i adresselisten</translation>
+        <translation>Markatet, der er associeret med denne indgang i adresselisten</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Adressen, der er associeret med denne indgang i adresselisten. Denne kan kune ændres for afsendelsesadresser.</translation>
+        <translation>Adressen, der er associeret med denne indgang i adresselisten. Denne kan kune andres for afsendelsesadresser.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -799,15 +799,15 @@
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>Redigér modtagelsesadresse</translation>
+        <translation>Rediger modtagelsesadresse</translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Redigér afsendelsesadresse</translation>
+        <translation>Rediger afsendelsesadresse</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Den indtastede adresse "%1" er ikke en gyldig Litecoin-adresse.</translation>
+        <source>The entered address "%1" is not a valid JapariCoin address.</source>
+        <translation>Den indtastede adresse "%1" er ikke en gyldig JapariCoin-adresse.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -815,11 +815,11 @@
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>Kunne ikke låse tegnebog op.</translation>
+        <translation>Kunne ikke lase tegnebog op.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>Ny nøglegenerering mislykkedes.</translation>
+        <translation>Ny noglegenerering mislykkedes.</translation>
     </message>
 </context>
 <context>
@@ -834,7 +834,7 @@
     </message>
     <message>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>Mappe eksisterer allerede. Tilføj %1, hvis du vil oprette en ny mappe her.</translation>
+        <translation>Mappe eksisterer allerede. Tilfoj %1, hvis du vil oprette en ny mappe her.</translation>
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
@@ -873,15 +873,15 @@
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>Indstillinger for brugergrænseflade:</translation>
+        <translation>Indstillinger for brugergranseflade:</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>Vælg datamappe under opstart (standard: %u)</translation>
+        <translation>Valg datamappe under opstart (standard: %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Vælg sprog; fx "da_DK" (standard: systemsprog)</translation>
+        <translation>Valg sprog; fx "da_DK" (standard: systemsprog)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -889,11 +889,11 @@
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Opsæt SSL-rodcertifikater til betalingsadmodninger (standard: -system-)</translation>
+        <translation>Opsat SSL-rodcertifikater til betalingsadmodninger (standard: -system-)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Vis startskærm under opstart (standard: %u)</translation>
+        <translation>Vis startskarm under opstart (standard: %u)</translation>
     </message>
     <message>
         <source>Reset all settings changed in the GUI</source>
@@ -912,11 +912,11 @@
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where %1 will store its data.</source>
-        <translation>Siden dette er første gang, programmet startes, kan du vælge, hvor %1 skal gemme sin data.</translation>
+        <translation>Siden dette er forste gang, programmet startes, kan du valge, hvor %1 skal gemme sin data.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Litecoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 vil downloade og gemme et kopi af Litecoin-blokkæden. Mindst %2 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil også blive gemt i denne mappe.</translation>
+        <source>%1 will download and store a copy of the JapariCoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1 vil downloade og gemme et kopi af JapariCoin-blokkaden. Mindst %2 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil ogsa blive gemt i denne mappe.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -936,22 +936,22 @@
     </message>
     <message numerus="yes">
         <source>%n GB of free space available</source>
-        <translation><numerusform>%n GB fri plads tilgængelig</numerusform><numerusform>%n GB fri plads tilgængelig</numerusform></translation>
+        <translation><numerusform>%n GB fri plads tilgangelig</numerusform><numerusform>%n GB fri plads tilgangelig</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>(of %n GB needed)</source>
-        <translation><numerusform>(ud af %n GB nødvendig)</numerusform><numerusform>(ud af %n GB nødvendig)</numerusform></translation>
+        <translation><numerusform>(ud af %n GB nodvendig)</numerusform><numerusform>(ud af %n GB nodvendig)</numerusform></translation>
     </message>
 </context>
 <context>
     <name>OpenURIDialog</name>
     <message>
         <source>Open URI</source>
-        <translation>Åbn URI</translation>
+        <translation>Abn URI</translation>
     </message>
     <message>
         <source>Open payment request from URI or file</source>
-        <translation>Åbn betalingsanmodning fra URI eller fil</translation>
+        <translation>Abn betalingsanmodning fra URI eller fil</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -959,11 +959,11 @@
     </message>
     <message>
         <source>Select payment request file</source>
-        <translation>Vælg fil for betalingsanmodning</translation>
+        <translation>Valg fil for betalingsanmodning</translation>
     </message>
     <message>
         <source>Select payment request file to open</source>
-        <translation>Vælg fil for betalingsanmodning til åbning</translation>
+        <translation>Valg fil for betalingsanmodning til abning</translation>
     </message>
 </context>
 <context>
@@ -978,7 +978,7 @@
     </message>
     <message>
         <source>Automatically start %1 after logging in to the system.</source>
-        <translation>Start %1 automatisk, når der logges ind på systemet.</translation>
+        <translation>Start %1 automatisk, nar der logges ind pa systemet.</translation>
     </message>
     <message>
         <source>&amp;Start %1 on system login</source>
@@ -986,7 +986,7 @@
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>Størrelsen på &amp;databasens cache</translation>
+        <translation>Storrelsen pa &amp;databasens cache</translation>
     </message>
     <message>
         <source>MB</source>
@@ -994,11 +994,11 @@
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>Antallet af script&amp;verificeringstråde</translation>
+        <translation>Antallet af script&amp;verificeringstrade</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
-        <translation>Acceptér forbindelser udefra</translation>
+        <translation>Accepter forbindelser udefra</translation>
     </message>
     <message>
         <source>Allow incoming connections</source>
@@ -1010,11 +1010,11 @@
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
-        <translation>Minimér i stedet for at lukke applikationen, når vinduet lukkes. Når denne indstilling er aktiveret, vil applikationen først blive lukket, når Afslut vælges i menuen.</translation>
+        <translation>Minimer i stedet for at lukke applikationen, nar vinduet lukkes. Nar denne indstilling er aktiveret, vil applikationen forst blive lukket, nar Afslut valges i menuen.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>Tredjeparts-URL'er (fx et blokhåndteringsværktøj), der vises i transaktionsfanen som genvejsmenupunkter. %s i URL'en erstattes med transaktionens hash. Flere URL'er separeres med en lodret streg |.</translation>
+        <translation>Tredjeparts-URL'er (fx et blokhandteringsvarktoj), der vises i transaktionsfanen som genvejsmenupunkter. %s i URL'en erstattes med transaktionens hash. Flere URL'er separeres med en lodret streg |.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -1022,7 +1022,7 @@
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Aktuelle tilvalg for kommandolinjen, der tilsidesætter ovenstående tilvalg:</translation>
+        <translation>Aktuelle tilvalg for kommandolinjen, der tilsidesatter ovenstaende tilvalg:</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -1034,11 +1034,11 @@
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>&amp;Netværk</translation>
+        <translation>&amp;Netvark</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = auto, &lt;0 = efterlad så mange kerner fri)</translation>
+        <translation>(0 = auto, &lt;0 = efterlad sa mange kerner fri)</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1050,27 +1050,27 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Aktivér egenskaber for &amp;coin-styring</translation>
+        <translation>Aktiver egenskaber for &amp;coin-styring</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Hvis du slår brug af ubekræftede byttepenge fra, kan byttepengene fra en transaktion ikke bruges, før pågældende transaktion har mindst én bekræftelse. Dette påvirker også måden hvorpå din saldo beregnes.</translation>
+        <translation>Hvis du slar brug af ubekraftede byttepenge fra, kan byttepengene fra en transaktion ikke bruges, for pagaldende transaktion har mindst en bekraftelse. Dette pavirker ogsa maden hvorpa din saldo beregnes.</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;Brug ubekræftede byttepenge</translation>
+        <translation>&amp;Brug ubekraftede byttepenge</translation>
     </message>
     <message>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn automatisk Litecoin-klientens port på routeren. Dette virker kun, når din router understøtter UPnP, og UPnP er aktiveret.</translation>
+        <source>Automatically open the JapariCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abn automatisk JapariCoin-klientens port pa routeren. Dette virker kun, nar din router understotter UPnP, og UPnP er aktiveret.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>Konfigurér port vha. &amp;UPnP</translation>
+        <translation>Konfigurer port vha. &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a SOCKS5 proxy.</source>
-        <translation>Forbind til Litecoin-netværket gennem en SOCKS5-proxy.</translation>
+        <source>Connect to the JapariCoin network through a SOCKS5 proxy.</source>
+        <translation>Forbind til JapariCoin-netvarket gennem en SOCKS5-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1090,11 +1090,11 @@
     </message>
     <message>
         <source>Used for reaching peers via:</source>
-        <translation>Bruges til at nå knuder via:</translation>
+        <translation>Bruges til at na knuder via:</translation>
     </message>
     <message>
         <source>Shows, if the supplied default SOCKS5 proxy is used to reach peers via this network type.</source>
-        <translation>Viser om den angivne standard-SOCKS5-proxy bruges til at nå knuder via denne netværkstype.</translation>
+        <translation>Viser om den angivne standard-SOCKS5-proxy bruges til at na knuder via denne netvarkstype.</translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -1109,12 +1109,12 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Litecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Forbind til Litecoin-netværket gennem en separat SOCKS5-proxy for skjulte Tor-tjenester.</translation>
+        <source>Connect to the JapariCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Forbind til JapariCoin-netvarket gennem en separat SOCKS5-proxy for skjulte Tor-tjenester.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
-        <translation>Brug separat SOCKS5-proxy for at nå knuder via skjulte Tor-tjenester.</translation>
+        <translation>Brug separat SOCKS5-proxy for at na knuder via skjulte Tor-tjenester.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1134,11 +1134,11 @@
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimér til statusfeltet i stedet for proceslinjen</translation>
+        <translation>&amp;Minimer til statusfeltet i stedet for proceslinjen</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimér ved lukning</translation>
+        <translation>M&amp;inimer ved lukning</translation>
     </message>
     <message>
         <source>&amp;Display</source>
@@ -1146,19 +1146,19 @@
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>&amp;Sprog for brugergrænseflade:</translation>
+        <translation>&amp;Sprog for brugergranseflade:</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting %1.</source>
-        <translation>Sproget for brugerfladen kan vælges her. Denne indstilling vil træde i kraft efter genstart af %1.</translation>
+        <translation>Sproget for brugerfladen kan valges her. Denne indstilling vil trade i kraft efter genstart af %1.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Enhed, som beløb vises i:</translation>
+        <translation>&amp;Enhed, som belob vises i:</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Vælg standard for underopdeling af enhed, som skal vises i brugergrænsefladen og ved afsendelse af litecoins.</translation>
+        <translation>Valg standard for underopdeling af enhed, som skal vises i brugergransefladen og ved afsendelse af JapariCoins.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1170,7 +1170,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annullér</translation>
+        <translation>&amp;Annuller</translation>
     </message>
     <message>
         <source>default</source>
@@ -1182,19 +1182,19 @@
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>Bekræft nulstilling af indstillinger</translation>
+        <translation>Bekraft nulstilling af indstillinger</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Genstart af klienten er nødvendig for at aktivere ændringer.</translation>
+        <translation>Genstart af klienten er nodvendig for at aktivere andringer.</translation>
     </message>
     <message>
         <source>Client will be shut down. Do you want to proceed?</source>
-        <translation>Klienten vil lukke ned. Vil du fortsætte?</translation>
+        <translation>Klienten vil lukke ned. Vil du fortsatte?</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Denne ændring vil kræve en genstart af klienten.</translation>
+        <translation>Denne andring vil krave en genstart af klienten.</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
@@ -1208,8 +1208,8 @@
         <translation>Formular</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Litecoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JapariCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den viste information kan vare foraldet. Din tegnebog synkroniserer automatisk med JapariCoin-netvarket, nar en forbindelse etableres, men denne proces er ikke gennemfort endnu.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1217,11 +1217,11 @@
     </message>
     <message>
         <source>Available:</source>
-        <translation>Tilgængelig:</translation>
+        <translation>Tilgangelig:</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
-        <translation>Din nuværende tilgængelige saldo</translation>
+        <translation>Din nuvarende tilgangelige saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -1229,7 +1229,7 @@
     </message>
     <message>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Total saldo for transaktioner, som ikke er blevet bekræftet endnu, og som ikke endnu er en del af den tilgængelige saldo</translation>
+        <translation>Total saldo for transaktioner, som ikke er blevet bekraftet endnu, og som ikke endnu er en del af den tilgangelige saldo</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -1249,15 +1249,15 @@
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Din nuværende totale saldo</translation>
+        <translation>Din nuvarende totale saldo</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
-        <translation>Din nuværende saldo på kigge-adresser</translation>
+        <translation>Din nuvarende saldo pa kigge-adresser</translation>
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>Spendérbar:</translation>
+        <translation>Spenderbar:</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -1265,15 +1265,15 @@
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>Ubekræftede transaktioner til kigge-adresser</translation>
+        <translation>Ubekraftede transaktioner til kigge-adresser</translation>
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>Minet saldo på kigge-adresser, som endnu ikke er modnet</translation>
+        <translation>Minet saldo pa kigge-adresser, som endnu ikke er modnet</translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>Nuværende totalsaldo på kigge-adresser</translation>
+        <translation>Nuvarende totalsaldo pa kigge-adresser</translation>
     </message>
 </context>
 <context>
@@ -1283,12 +1283,12 @@
         <translation>Fejl i betalingsanmodning</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Kan ikke starte litecoin: click-to-pay-håndtering</translation>
+        <source>Cannot start JapariCoin: click-to-pay handler</source>
+        <translation>Kan ikke starte JapariCoin: click-to-pay-handtering</translation>
     </message>
     <message>
         <source>URI handling</source>
-        <translation>URI-håndtering</translation>
+        <translation>URI-handtering</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1299,16 +1299,16 @@
         <translation>Ugyldig betalingsadresse %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Litecoin-adresse eller forkert udformede URL-parametre.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid JapariCoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig JapariCoin-adresse eller forkert udformede URL-parametre.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
-        <translation>Filhåndtering for betalingsanmodninger</translation>
+        <translation>Filhandtering for betalingsanmodninger</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>Fil for betalingsanmodning kan ikke læses! Dette kan skyldes en ugyldig fil for betalingsanmodning.</translation>
+        <translation>Fil for betalingsanmodning kan ikke lases! Dette kan skyldes en ugyldig fil for betalingsanmodning.</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
@@ -1316,11 +1316,11 @@
     </message>
     <message>
         <source>Payment request network doesn't match client network.</source>
-        <translation>Netværk for betalingsanmodning stemmer ikke overens med klientens netværk.</translation>
+        <translation>Netvark for betalingsanmodning stemmer ikke overens med klientens netvark.</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>Betalingsanmodning er udløbet.</translation>
+        <translation>Betalingsanmodning er udlobet.</translation>
     </message>
     <message>
         <source>Payment request is not initialized.</source>
@@ -1328,7 +1328,7 @@
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>Ikke-verificerede betalingsanmodninger for tilpassede betalings-scripts understøttes ikke.</translation>
+        <translation>Ikke-verificerede betalingsanmodninger for tilpassede betalings-scripts understottes ikke.</translation>
     </message>
     <message>
         <source>Invalid payment request.</source>
@@ -1336,7 +1336,7 @@
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>Anmodet betalingsbeløb på %1 er for lille (regnes som støv).</translation>
+        <translation>Anmodet betalingsbelob pa %1 er for lille (regnes som stov).</translation>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1360,7 +1360,7 @@
     </message>
     <message>
         <source>Network request error</source>
-        <translation>Fejl i netværksforespørgsel</translation>
+        <translation>Fejl i netvarksforesporgsel</translation>
     </message>
     <message>
         <source>Payment acknowledged</source>
@@ -1386,11 +1386,11 @@
     <name>QObject</name>
     <message>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belob</translation>
     </message>
     <message>
-        <source>Enter a Litecoin address (e.g. %1)</source>
-        <translation>Indtast en Litecoin-adresse (fx %1)</translation>
+        <source>Enter a JapariCoin address (e.g. %1)</source>
+        <translation>Indtast en JapariCoin-adresse (fx %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1429,7 +1429,7 @@
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;Kopiér foto</translation>
+        <translation>&amp;Kopier foto</translation>
     </message>
     <message>
         <source>Save QR Code</source>
@@ -1456,7 +1456,7 @@
     </message>
     <message>
         <source>Debug window</source>
-        <translation>Fejlsøgningsvindue</translation>
+        <translation>Fejlsogningsvindue</translation>
     </message>
     <message>
         <source>General</source>
@@ -1476,7 +1476,7 @@
     </message>
     <message>
         <source>Network</source>
-        <translation>Netværk</translation>
+        <translation>Netvark</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1488,11 +1488,11 @@
     </message>
     <message>
         <source>Block chain</source>
-        <translation>Blokkæde</translation>
+        <translation>Blokkade</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>Nuværende antal blokke</translation>
+        <translation>Nuvarende antal blokke</translation>
     </message>
     <message>
         <source>Memory Pool</source>
@@ -1524,11 +1524,11 @@
     </message>
     <message>
         <source>Select a peer to view detailed information.</source>
-        <translation>Vælg en anden knude for at se detaljeret information.</translation>
+        <translation>Valg en anden knude for at se detaljeret information.</translation>
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>På hvidliste</translation>
+        <translation>Pa hvidliste</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1556,15 +1556,15 @@
     </message>
     <message>
         <source>Open the %1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn %1s fejlsøgningslogfil fra den aktuelle datamappe. Dette kan tage nogle få sekunder for store logfiler.</translation>
+        <translation>Abn %1s fejlsogningslogfil fra den aktuelle datamappe. Dette kan tage nogle fa sekunder for store logfiler.</translation>
     </message>
     <message>
         <source>Decrease font size</source>
-        <translation>Formindsk skrifttypestørrelse</translation>
+        <translation>Formindsk skrifttypestorrelse</translation>
     </message>
     <message>
         <source>Increase font size</source>
-        <translation>Forstør skrifttypestørrelse</translation>
+        <translation>Forstor skrifttypestorrelse</translation>
     </message>
     <message>
         <source>Services</source>
@@ -1592,7 +1592,7 @@
     </message>
     <message>
         <source>The duration of a currently outstanding ping.</source>
-        <translation>Varigheden af den aktuelt igangværende ping.</translation>
+        <translation>Varigheden af den aktuelt igangvarende ping.</translation>
     </message>
     <message>
         <source>Ping Wait</source>
@@ -1608,7 +1608,7 @@
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Åbn</translation>
+        <translation>&amp;Abn</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -1616,7 +1616,7 @@
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>&amp;Netværkstrafik</translation>
+        <translation>&amp;Netvarkstrafik</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -1632,11 +1632,11 @@
     </message>
     <message>
         <source>Out:</source>
-        <translation>Udgående:</translation>
+        <translation>Udgaende:</translation>
     </message>
     <message>
         <source>Debug log file</source>
-        <translation>Fejlsøgningslogfil</translation>
+        <translation>Fejlsogningslogfil</translation>
     </message>
     <message>
         <source>Clear console</source>
@@ -1664,7 +1664,7 @@
     </message>
     <message>
         <source>1 &amp;year</source>
-        <translation>1 &amp;år</translation>
+        <translation>1 &amp;ar</translation>
     </message>
     <message>
         <source>&amp;Unban Node</source>
@@ -1676,11 +1676,11 @@
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Brug op- og ned-piletasterne til at navigere i historikken og &lt;b&gt;Ctrl-L&lt;/b&gt; til at rydde skærmen.</translation>
+        <translation>Brug op- og ned-piletasterne til at navigere i historikken og &lt;b&gt;Ctrl-L&lt;/b&gt; til at rydde skarmen.</translation>
     </message>
     <message>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Tast &lt;b&gt;help&lt;/b&gt; for en oversigt over de tilgængelige kommandoer.</translation>
+        <translation>Tast &lt;b&gt;help&lt;/b&gt; for en oversigt over de tilgangelige kommandoer.</translation>
     </message>
     <message>
         <source>%1 B</source>
@@ -1716,7 +1716,7 @@
     </message>
     <message>
         <source>Outbound</source>
-        <translation>Udgående</translation>
+        <translation>Udgaende</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1735,11 +1735,11 @@
     <name>ReceiveCoinsDialog</name>
     <message>
         <source>&amp;Amount:</source>
-        <translation>&amp;Beløb:</translation>
+        <translation>&amp;Belob:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Mærkat:</translation>
+        <translation>&amp;Markat:</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -1747,19 +1747,19 @@
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>Genbrug en af de tidligere brugte modtagelsesadresser. Genbrug af adresser har indflydelse på sikkerhed og privatliv. Brug ikke dette med mindre du genskaber en betalingsanmodning fra tidligere.</translation>
+        <translation>Genbrug en af de tidligere brugte modtagelsesadresser. Genbrug af adresser har indflydelse pa sikkerhed og privatliv. Brug ikke dette med mindre du genskaber en betalingsanmodning fra tidligere.</translation>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
         <translation>&amp;Genbrug en eksisterende modtagelsesadresse (anbefales ikke)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>En valgfri besked, der føjes til betalingsanmodningen, og som vil vises, når anmodningen åbnes. Bemærk: Beskeden vil ikke sendes sammen med betalingen over Litecoin-netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the JapariCoin network.</source>
+        <translation>En valgfri besked, der fojes til betalingsanmodningen, og som vil vises, nar anmodningen abnes. Bemark: Beskeden vil ikke sendes sammen med betalingen over JapariCoin-netvarket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Et valgfrit mærkat, der associeres med den nye modtagelsesadresse.</translation>
+        <translation>Et valgfrit markat, der associeres med den nye modtagelsesadresse.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1767,7 +1767,7 @@
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Et valgfrit beløb til anmodning. Lad dette felt være tomt eller indeholde nul for at anmode om et ikke-specifikt beløb.</translation>
+        <translation>Et valgfrit belob til anmodning. Lad dette felt vare tomt eller indeholde nul for at anmode om et ikke-specifikt belob.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -1787,7 +1787,7 @@
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Vis den valgte anmodning (gør det samme som dobbeltklik på en indgang)</translation>
+        <translation>Vis den valgte anmodning (gor det samme som dobbeltklik pa en indgang)</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1803,15 +1803,15 @@
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Kopiér mærkat</translation>
+        <translation>Kopier markat</translation>
     </message>
     <message>
         <source>Copy message</source>
-        <translation>Kopiér besked</translation>
+        <translation>Kopier besked</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Kopiér beløb</translation>
+        <translation>Kopier belob</translation>
     </message>
 </context>
 <context>
@@ -1822,11 +1822,11 @@
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>Kopiér &amp;URI</translation>
+        <translation>Kopier &amp;URI</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
-        <translation>Kopiér &amp;adresse</translation>
+        <translation>Kopier &amp;adresse</translation>
     </message>
     <message>
         <source>&amp;Save Image...</source>
@@ -1850,11 +1850,11 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belob</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Markat</translation>
     </message>
     <message>
         <source>Message</source>
@@ -1862,7 +1862,7 @@
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>Resulterende URI var for lang; prøv at forkorte teksten til mærkaten/beskeden.</translation>
+        <translation>Resulterende URI var for lang; prov at forkorte teksten til markaten/beskeden.</translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
@@ -1877,7 +1877,7 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Markat</translation>
     </message>
     <message>
         <source>Message</source>
@@ -1885,7 +1885,7 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen markat)</translation>
     </message>
     <message>
         <source>(no message)</source>
@@ -1893,7 +1893,7 @@
     </message>
     <message>
         <source>(no amount requested)</source>
-        <translation>(intet anmodet beløb)</translation>
+        <translation>(intet anmodet belob)</translation>
     </message>
     <message>
         <source>Requested</source>
@@ -1904,7 +1904,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Send litecoins</translation>
+        <translation>Send JapariCoins</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1920,11 +1920,11 @@
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Utilstrækkelige midler!</translation>
+        <translation>Utilstrakkelige midler!</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Mængde:</translation>
+        <translation>Mangde:</translation>
     </message>
     <message>
         <source>Bytes:</source>
@@ -1932,7 +1932,7 @@
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Beløb:</translation>
+        <translation>Belob:</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -1964,11 +1964,11 @@
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Vælg…</translation>
+        <translation>Valg…</translation>
     </message>
     <message>
         <source>collapse fee-settings</source>
-        <translation>sammenfold gebyropsætning</translation>
+        <translation>sammenfold gebyropsatning</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -1976,7 +1976,7 @@
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis det brugertilpassede gebyr er sat til 1000 satoshis, og transaktionen kun fylder 250 byte, betaler "pr. kilobyte" kun 250 satoshis i gebyr, mens "total mindst" betaler 1000 satoshis. For transaktioner større end en kilobyte betaler begge pr. kilobyte.</translation>
+        <translation>Hvis det brugertilpassede gebyr er sat til 1000 satoshis, og transaktionen kun fylder 250 byte, betaler "pr. kilobyte" kun 250 satoshis i gebyr, mens "total mindst" betaler 1000 satoshis. For transaktioner storre end en kilobyte betaler begge pr. kilobyte.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1987,12 +1987,12 @@
         <translation>total mindst</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>Det er helt fint kun at betale det minimale gebyr, så længe den totale transaktionsvolumen er mindre end den plads, der er tilgængelig i blokkene. Men vær opmærksom på, at dette kan ende ud i transaktioner, der aldrig bliver bekræftet, når der bliver større forespørgsel efter litecoin-transaktioner, end hvad netværket kan bearbejde.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for JapariCoin transactions than the network can process.</source>
+        <translation>Det er helt fint kun at betale det minimale gebyr, sa lange den totale transaktionsvolumen er mindre end den plads, der er tilgangelig i blokkene. Men var opmarksom pa, at dette kan ende ud i transaktioner, der aldrig bliver bekraftet, nar der bliver storre foresporgsel efter JapariCoin-transaktioner, end hvad netvarket kan bearbejde.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
-        <translation>(læs værktøjstippet)</translation>
+        <translation>(las varktojstippet)</translation>
     </message>
     <message>
         <source>Recommended:</source>
@@ -2004,11 +2004,11 @@
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(Smart-gebyr er ikke initialiseret endnu. Dette tager typisk nogle få blokke…)</translation>
+        <translation>(Smart-gebyr er ikke initialiseret endnu. Dette tager typisk nogle fa blokke…)</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
-        <translation>Bekræftelsestid:</translation>
+        <translation>Bekraftelsestid:</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2020,11 +2020,11 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Send til flere modtagere på en gang</translation>
+        <translation>Send til flere modtagere pa en gang</translation>
     </message>
     <message>
         <source>Add &amp;Recipient</source>
-        <translation>Tilføj &amp;modtager</translation>
+        <translation>Tilfoj &amp;modtager</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -2032,7 +2032,7 @@
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Støv:</translation>
+        <translation>Stov:</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2044,7 +2044,7 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Bekræft afsendelsen</translation>
+        <translation>Bekraft afsendelsen</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -2052,35 +2052,35 @@
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation>Kopiér mængde</translation>
+        <translation>Kopier mangde</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Kopiér beløb</translation>
+        <translation>Kopier belob</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Kopiér gebyr</translation>
+        <translation>Kopier gebyr</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Kopiér eftergebyr</translation>
+        <translation>Kopier eftergebyr</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>Kopiér byte</translation>
+        <translation>Kopier byte</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation>Kopiér prioritet</translation>
+        <translation>Kopier prioritet</translation>
     </message>
     <message>
         <source>Copy dust</source>
-        <translation>Kopiér støv</translation>
+        <translation>Kopier stov</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation>Kopiér byttepenge</translation>
+        <translation>Kopier byttepenge</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2088,15 +2088,15 @@
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>Er du sikker på, at du vil sende?</translation>
+        <translation>Er du sikker pa, at du vil sende?</translation>
     </message>
     <message>
         <source>added as transaction fee</source>
-        <translation>tilføjet som transaktionsgebyr</translation>
+        <translation>tilfojet som transaktionsgebyr</translation>
     </message>
     <message>
         <source>Total Amount %1</source>
-        <translation>Beløb i alt %1</translation>
+        <translation>Belob i alt %1</translation>
     </message>
     <message>
         <source>or</source>
@@ -2104,7 +2104,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Bekræft afsendelse af litecoins</translation>
+        <translation>Bekraft afsendelse af JapariCoins</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2112,19 +2112,19 @@
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Beløbet til betaling skal være større end 0.</translation>
+        <translation>Belobet til betaling skal vare storre end 0.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Beløbet overstiger din saldo.</translation>
+        <translation>Belobet overstiger din saldo.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Totalen overstiger din saldo, når transaktionsgebyret på %1 er inkluderet.</translation>
+        <translation>Totalen overstiger din saldo, nar transaktionsgebyret pa %1 er inkluderet.</translation>
     </message>
     <message>
         <source>Duplicate address found: addresses should only be used once each.</source>
-        <translation>Adressegenganger fundet. Adresser bør kun bruges én gang hver.</translation>
+        <translation>Adressegenganger fundet. Adresser bor kun bruges en gang hver.</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
@@ -2132,27 +2132,27 @@
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Transaktionen blev afvist! Dette kan ske, hvis nogle af dine litecoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine litecoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
+        <translation>Transaktionen blev afvist! Dette kan ske, hvis nogle af dine JapariCoins i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine JapariCoins er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
     </message>
     <message>
         <source>A fee higher than %1 is considered an absurdly high fee.</source>
-        <translation>Et gebyr højere end %1 opfattes som et absurd højt gebyr.</translation>
+        <translation>Et gebyr hojere end %1 opfattes som et absurd hojt gebyr.</translation>
     </message>
     <message>
         <source>Payment request expired.</source>
-        <translation>Betalingsanmodning er udløbet.</translation>
+        <translation>Betalingsanmodning er udlobet.</translation>
     </message>
     <message>
         <source>Pay only the required fee of %1</source>
-        <translation>Betal kun det påkrævede gebyr på %1</translation>
+        <translation>Betal kun det pakravede gebyr pa %1</translation>
     </message>
     <message numerus="yes">
         <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>Bekræftelse estimeret til at begynde inden for %n blok.</numerusform><numerusform>Bekræftelse estimeret til at begynde inden for %n blokke.</numerusform></translation>
+        <translation><numerusform>Bekraftelse estimeret til at begynde inden for %n blok.</numerusform><numerusform>Bekraftelse estimeret til at begynde inden for %n blokke.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Litecoin address</source>
-        <translation>Advarsel: Ugyldig Litecoin-adresse</translation>
+        <source>Warning: Invalid JapariCoin address</source>
+        <translation>Advarsel: Ugyldig JapariCoin-adresse</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2160,14 +2160,14 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen markat)</translation>
     </message>
 </context>
 <context>
     <name>SendCoinsEntry</name>
     <message>
         <source>A&amp;mount:</source>
-        <translation>&amp;Beløb:</translation>
+        <translation>&amp;Belob:</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -2175,19 +2175,19 @@
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>&amp;Mærkat:</translation>
+        <translation>&amp;Markat:</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Vælg tidligere brugt adresse</translation>
+        <translation>Valg tidligere brugt adresse</translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
         <translation>Dette er en normal betaling.</translation>
     </message>
     <message>
-        <source>The Litecoin address to send the payment to</source>
-        <translation>Litecoin-adresse, som betalingen skal sendes til</translation>
+        <source>The JapariCoin address to send the payment to</source>
+        <translation>JapariCoin-adresse, som betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2195,7 +2195,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Indsæt adresse fra udklipsholderen</translation>
+        <translation>Indsat adresse fra udklipsholderen</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2206,12 +2206,12 @@
         <translation>Fjern denne indgang</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Gebyret vil blive trukket fra det sendte beløb. Modtageren vil modtage færre litecoin, end du indtaster i beløbfeltet. Hvis flere modtagere vælges, vil gebyret deles ligeligt.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less JapariCoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Gebyret vil blive trukket fra det sendte belob. Modtageren vil modtage farre JapariCoin, end du indtaster i belobfeltet. Hvis flere modtagere valges, vil gebyret deles ligeligt.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
-        <translation>&amp;Træk gebyr fra beløb</translation>
+        <translation>&amp;Trak gebyr fra belob</translation>
     </message>
     <message>
         <source>Message:</source>
@@ -2227,11 +2227,11 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Indtast et mærkat for denne adresse for at føje den til listen over brugte adresser</translation>
+        <translation>Indtast et markat for denne adresse for at foje den til listen over brugte adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
-        <translation>En besked, som blev føjet til "bitcon:"-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over Litecoin-netværket.</translation>
+        <source>A message that was attached to the JapariCoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the JapariCoin network.</source>
+        <translation>En besked, som blev fojet til "bitcon:"-URI'en, som vil gemmes med transaktionen til din reference. Bemark: Denne besked vil ikke blive sendt over JapariCoin-netvarket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2243,7 +2243,7 @@
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Indtast en mærkat for denne adresse for at føje den til din adressebog</translation>
+        <translation>Indtast en markat for denne adresse for at foje den til din adressebog</translation>
     </message>
 </context>
 <context>
@@ -2261,30 +2261,30 @@
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation>Luk ikke computeren ned, før dette vindue forsvinder.</translation>
+        <translation>Luk ikke computeren ned, for dette vindue forsvinder.</translation>
     </message>
 </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Signaturer – Underskriv/verificér en besked</translation>
+        <translation>Signaturer ? Underskriv/verificer en besked</translation>
     </message>
     <message>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Singér besked</translation>
+        <translation>&amp;Singer besked</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan signere beskeder/aftaler med dine adresser for at bevise, at du kan modtage litecoin, der bliver sendt til adresserne. Vær forsigtig med ikke at signere noget vagt eller tilfældigt, da eventuelle phishing-angreb kan snyde dig til at overlade din identitet til dem. Signér kun fuldt ud detaljerede udsagn, som du er enig i.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive JapariCoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Du kan signere beskeder/aftaler med dine adresser for at bevise, at du kan modtage JapariCoin, der bliver sendt til adresserne. Var forsigtig med ikke at signere noget vagt eller tilfaldigt, da eventuelle phishing-angreb kan snyde dig til at overlade din identitet til dem. Signer kun fuldt ud detaljerede udsagn, som du er enig i.</translation>
     </message>
     <message>
-        <source>The Litecoin address to sign the message with</source>
-        <translation>Litecoin-adresse, som beskeden skal signeres med</translation>
+        <source>The JapariCoin address to sign the message with</source>
+        <translation>JapariCoin-adresse, som beskeden skal signeres med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Vælg tidligere brugt adresse</translation>
+        <translation>Valg tidligere brugt adresse</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2292,7 +2292,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Indsæt adresse fra udklipsholderen</translation>
+        <translation>Indsat adresse fra udklipsholderen</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2300,7 +2300,7 @@
     </message>
     <message>
         <source>Enter the message you want to sign here</source>
-        <translation>Indtast her beskeden, du ønsker at signere</translation>
+        <translation>Indtast her beskeden, du onsker at signere</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -2308,19 +2308,19 @@
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Kopiér den nuværende signatur til systemets udklipsholder</translation>
+        <translation>Kopier den nuvarende signatur til systemets udklipsholder</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Signér denne besked for at bevise, at Litecoin-adressen tilhører dig</translation>
+        <source>Sign the message to prove you own this JapariCoin address</source>
+        <translation>Signer denne besked for at bevise, at JapariCoin-adressen tilhorer dig</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
-        <translation>Signér &amp;besked</translation>
+        <translation>Signer &amp;besked</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Nulstil alle "signér besked"-felter</translation>
+        <translation>Nulstil alle "signer besked"-felter</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -2328,31 +2328,31 @@
     </message>
     <message>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verificér besked</translation>
+        <translation>&amp;Verificer besked</translation>
     </message>
     <message>
         <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-        <translation>Indtast modtagerens adresse, besked (vær sikker på at kopiere linjeskift, mellemrum, tabuleringer, etc. præcist) og signatur herunder for at verificere beskeden. Vær forsigtig med ikke at læse noget ud fra signaturen, som ikke står i selve beskeden, for at undgå at blive snydt af et eventuelt man-in-the-middle-angreb. Bemærk, at dette kun beviser, at den signerende person kan modtage med adressen; det kan ikke bevise hvem der har sendt en given transaktion!</translation>
+        <translation>Indtast modtagerens adresse, besked (var sikker pa at kopiere linjeskift, mellemrum, tabuleringer, etc. pracist) og signatur herunder for at verificere beskeden. Var forsigtig med ikke at lase noget ud fra signaturen, som ikke star i selve beskeden, for at undga at blive snydt af et eventuelt man-in-the-middle-angreb. Bemark, at dette kun beviser, at den signerende person kan modtage med adressen; det kan ikke bevise hvem der har sendt en given transaktion!</translation>
     </message>
     <message>
-        <source>The Litecoin address the message was signed with</source>
-        <translation>Litecoin-adressen, som beskeden blev signeret med</translation>
+        <source>The JapariCoin address the message was signed with</source>
+        <translation>JapariCoin-adressen, som beskeden blev signeret med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Verificér beskeden for at sikre, at den er signeret med den angivne Litecoin-adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified JapariCoin address</source>
+        <translation>Verificer beskeden for at sikre, at den er signeret med den angivne JapariCoin-adresse</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
-        <translation>Verificér &amp;besked</translation>
+        <translation>Verificer &amp;besked</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Nulstil alle "verificér besked"-felter</translation>
+        <translation>Nulstil alle "verificer besked"-felter</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
-        <translation>Klik "Signér besked" for at generere underskriften</translation>
+        <translation>Klik "Signer besked" for at generere underskriften</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2360,19 +2360,19 @@
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Tjek venligst adressen og forsøg igen.</translation>
+        <translation>Tjek venligst adressen og forsog igen.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>Den indtastede adresse henviser ikke til en nøgle.</translation>
+        <translation>Den indtastede adresse henviser ikke til en nogle.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Tegnebogsoplåsning annulleret.</translation>
+        <translation>Tegnebogsoplasning annulleret.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>Den private nøgle for den indtastede adresse er ikke tilgængelig.</translation>
+        <translation>Den private nogle for den indtastede adresse er ikke tilgangelig.</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
@@ -2388,7 +2388,7 @@
     </message>
     <message>
         <source>Please check the signature and try again.</source>
-        <translation>Tjek venligst signaturen og forsøg igen.</translation>
+        <translation>Tjek venligst signaturen og forsog igen.</translation>
     </message>
     <message>
         <source>The signature did not match the message digest.</source>
@@ -2407,7 +2407,7 @@
     <name>SplashScreen</name>
     <message>
         <source>[testnet]</source>
-        <translation>[testnetværk]</translation>
+        <translation>[testnetvark]</translation>
     </message>
 </context>
 <context>
@@ -2421,15 +2421,15 @@
     <name>TransactionDesc</name>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åbn yderligere %n blok</numerusform><numerusform>Åbn yderligere %n blokke</numerusform></translation>
+        <translation><numerusform>Abn yderligere %n blok</numerusform><numerusform>Abn yderligere %n blokke</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>Aben indtil %1</translation>
     </message>
     <message>
         <source>conflicted with a transaction with %1 confirmations</source>
-        <translation>i konflikt med en transaktion, der har %1 bekræftelser</translation>
+        <translation>i konflikt med en transaktion, der har %1 bekraftelser</translation>
     </message>
     <message>
         <source>%1/offline</source>
@@ -2437,7 +2437,7 @@
     </message>
     <message>
         <source>0/unconfirmed, %1</source>
-        <translation>0/ubekræftet, %1</translation>
+        <translation>0/ubekraftet, %1</translation>
     </message>
     <message>
         <source>in memory pool</source>
@@ -2453,11 +2453,11 @@
     </message>
     <message>
         <source>%1/unconfirmed</source>
-        <translation>%1/ubekræftet</translation>
+        <translation>%1/ubekraftet</translation>
     </message>
     <message>
         <source>%1 confirmations</source>
-        <translation>%1 bekræftelser</translation>
+        <translation>%1 bekraftelser</translation>
     </message>
     <message>
         <source>Status</source>
@@ -2505,7 +2505,7 @@
     </message>
     <message>
         <source>label</source>
-        <translation>mærkat</translation>
+        <translation>markat</translation>
     </message>
     <message>
         <source>Credit</source>
@@ -2537,7 +2537,7 @@
     </message>
     <message>
         <source>Net amount</source>
-        <translation>Nettobeløb</translation>
+        <translation>Nettobelob</translation>
     </message>
     <message>
         <source>Message</source>
@@ -2561,11 +2561,11 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Minede litecoins skal modne %1 blokke, før de kan bruges. Da du genererede denne blok, blev den transmitteret til netværket for at blive føjet til blokkæden. Hvis det ikke lykkes at få den i kæden, vil dens tilstand ændres til "ikke accepteret", og den vil ikke kunne bruges. Dette kan ske nu og da, hvis en anden knude udvinder en blok inden for nogle få sekunder fra din.</translation>
+        <translation>Minede JapariCoins skal modne %1 blokke, for de kan bruges. Da du genererede denne blok, blev den transmitteret til netvarket for at blive fojet til blokkaden. Hvis det ikke lykkes at fa den i kaden, vil dens tilstand andres til "ikke accepteret", og den vil ikke kunne bruges. Dette kan ske nu og da, hvis en anden knude udvinder en blok inden for nogle fa sekunder fra din.</translation>
     </message>
     <message>
         <source>Debug information</source>
-        <translation>Fejlsøgningsinformation</translation>
+        <translation>Fejlsogningsinformation</translation>
     </message>
     <message>
         <source>Transaction</source>
@@ -2577,7 +2577,7 @@
     </message>
     <message>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belob</translation>
     </message>
     <message>
         <source>true</source>
@@ -2611,15 +2611,15 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Markat</translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åben i yderligere %n blok</numerusform><numerusform>Åben i yderligere %n blokke</numerusform></translation>
+        <translation><numerusform>Aben i yderligere %n blok</numerusform><numerusform>Aben i yderligere %n blokke</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>Aben indtil %1</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -2627,7 +2627,7 @@
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Ubekræftet</translation>
+        <translation>Ubekraftet</translation>
     </message>
     <message>
         <source>Abandoned</source>
@@ -2635,11 +2635,11 @@
     </message>
     <message>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Bekræfter (%1 af %2 anbefalede bekræftelser)</translation>
+        <translation>Bekrafter (%1 af %2 anbefalede bekraftelser)</translation>
     </message>
     <message>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Bekræftet (%1 bekræftelser)</translation>
+        <translation>Bekraftet (%1 bekraftelser)</translation>
     </message>
     <message>
         <source>Conflicted</source>
@@ -2647,7 +2647,7 @@
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Umoden (%1 bekræftelser; vil være tilgængelig efter %2)</translation>
+        <translation>Umoden (%1 bekraftelser; vil vare tilgangelig efter %2)</translation>
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
@@ -2687,15 +2687,15 @@
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen markat)</translation>
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Transaktionsstatus. Hold musen over dette felt for at vise antallet af bekræftelser.</translation>
+        <translation>Transaktionsstatus. Hold musen over dette felt for at vise antallet af bekraftelser.</translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>Dato og klokkeslæt for modtagelse af transaktionen.</translation>
+        <translation>Dato og klokkeslat for modtagelse af transaktionen.</translation>
     </message>
     <message>
         <source>Type of transaction.</source>
@@ -2703,15 +2703,15 @@
     </message>
     <message>
         <source>Whether or not a watch-only address is involved in this transaction.</source>
-        <translation>Afgør hvorvidt en kigge-adresse er involveret i denne transaktion.</translation>
+        <translation>Afgor hvorvidt en kigge-adresse er involveret i denne transaktion.</translation>
     </message>
     <message>
         <source>User-defined intent/purpose of the transaction.</source>
-        <translation>Brugerdefineret hensigt/formål med transaktionen.</translation>
+        <translation>Brugerdefineret hensigt/formal med transaktionen.</translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>Beløb trukket fra eller tilføjet balance.</translation>
+        <translation>Belob trukket fra eller tilfojet balance.</translation>
     </message>
 </context>
 <context>
@@ -2730,15 +2730,15 @@
     </message>
     <message>
         <source>This month</source>
-        <translation>Denne måned</translation>
+        <translation>Denne maned</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Sidste måned</translation>
+        <translation>Sidste maned</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>I år</translation>
+        <translation>I ar</translation>
     </message>
     <message>
         <source>Range...</source>
@@ -2766,11 +2766,11 @@
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Indtast adresse eller mærkat for at søge</translation>
+        <translation>Indtast adresse eller markat for at soge</translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>Minimumsbeløb</translation>
+        <translation>Minimumsbelob</translation>
     </message>
     <message>
         <source>Abandon transaction</source>
@@ -2778,31 +2778,31 @@
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Kopiér adresse</translation>
+        <translation>Kopier adresse</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Kopiér mærkat</translation>
+        <translation>Kopier markat</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Kopiér beløb</translation>
+        <translation>Kopier belob</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Kopiér transaktions-ID</translation>
+        <translation>Kopier transaktions-ID</translation>
     </message>
     <message>
         <source>Copy raw transaction</source>
-        <translation>Kopiér rå transaktion</translation>
+        <translation>Kopier ra transaktion</translation>
     </message>
     <message>
         <source>Copy full transaction details</source>
-        <translation>Kopiér komplette transaktionsdetaljer</translation>
+        <translation>Kopier komplette transaktionsdetaljer</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Redigér mærkat</translation>
+        <translation>Rediger markat</translation>
     </message>
     <message>
         <source>Show transaction details</source>
@@ -2810,7 +2810,7 @@
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>Eksportér transaktionshistorik</translation>
+        <translation>Eksporter transaktionshistorik</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
@@ -2818,7 +2818,7 @@
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Bekræftet</translation>
+        <translation>Bekraftet</translation>
     </message>
     <message>
         <source>Watch-only</source>
@@ -2834,7 +2834,7 @@
     </message>
     <message>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Markat</translation>
     </message>
     <message>
         <source>Address</source>
@@ -2873,36 +2873,36 @@
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Enhed, som beløb vises i. Klik for at vælge en anden enhed.</translation>
+        <translation>Enhed, som belob vises i. Klik for at valge en anden enhed.</translation>
     </message>
 </context>
 <context>
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>Ingen tegnebog er indlæst.</translation>
+        <translation>Ingen tegnebog er indlast.</translation>
     </message>
 </context>
 <context>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Send litecoins</translation>
+        <translation>Send JapariCoins</translation>
     </message>
 </context>
 <context>
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Eksportér</translation>
+        <translation>&amp;Eksporter</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Eksportér den aktuelle visning til en fil</translation>
+        <translation>Eksporter den aktuelle visning til en fil</translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>Sikkerhedskopiér tegnebog</translation>
+        <translation>Sikkerhedskopier tegnebog</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
@@ -2937,7 +2937,7 @@
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Forbind til en knude for at modtage adresser på andre knuder, og afbryd derefter</translation>
+        <translation>Forbind til en knude for at modtage adresser pa andre knuder, og afbryd derefter</translation>
     </message>
     <message>
         <source>Specify your own public address</source>
@@ -2945,7 +2945,7 @@
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Acceptér kommandolinje- og JSON-RPC-kommandoer</translation>
+        <translation>Accepter kommandolinje- og JSON-RPC-kommandoer</translation>
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied or if &lt;category&gt; = 1, output all debugging information.</source>
@@ -2953,35 +2953,35 @@
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
-        <translation>Beskæring er sat under minimumsgrænsen på %d MiB. Brug venligst et større tal.</translation>
+        <translation>Beskaring er sat under minimumsgransen pa %d MiB. Brug venligst et storre tal.</translation>
     </message>
     <message>
         <source>Prune: last wallet synchronisation goes beyond pruned data. You need to -reindex (download the whole blockchain again in case of pruned node)</source>
-        <translation>Beskæring: Seneste synkronisering rækker udover beskårne data. Du er nødt til at bruge -reindex (downloade hele blokkæden igen i fald af beskåret knude)</translation>
+        <translation>Beskaring: Seneste synkronisering rakker udover beskarne data. Du er nodt til at bruge -reindex (downloade hele blokkaden igen i fald af beskaret knude)</translation>
     </message>
     <message>
         <source>Reduce storage requirements by pruning (deleting) old blocks. This mode is incompatible with -txindex and -rescan. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, &gt;%u = target size in MiB to use for block files)</source>
-        <translation>Reducér lagringskravene ved at beskære (slette) gamle blokke. Denne tilstand er ikke kompatibel med -txindex og -rescan. Advarsel: Fortrydelse af denne indstilling kræver gendownload af hele blokkæden. (standard: 0 = slå beskæring af blokke fra, &gt;%u = målstørrelse i MiB der skal bruges på blokfiler)</translation>
+        <translation>Reducer lagringskravene ved at beskare (slette) gamle blokke. Denne tilstand er ikke kompatibel med -txindex og -rescan. Advarsel: Fortrydelse af denne indstilling kraver gendownload af hele blokkaden. (standard: 0 = sla beskaring af blokke fra, &gt;%u = malstorrelse i MiB der skal bruges pa blokfiler)</translation>
     </message>
     <message>
         <source>Rescans are not possible in pruned mode. You will need to use -reindex which will download the whole blockchain again.</source>
-        <translation>Genindlæsninger er ikke mulige i beskåret tilstand. Du er nødt til at bruge -reindex, hvilket vil downloade hele blokkæden igen.</translation>
+        <translation>Genindlasninger er ikke mulige i beskaret tilstand. Du er nodt til at bruge -reindex, hvilket vil downloade hele blokkaden igen.</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>Fejl: En alvorlig intern fejl er opstået. Se debug.log for detaljer</translation>
+        <translation>Fejl: En alvorlig intern fejl er opstaet. Se debug.log for detaljer</translation>
     </message>
     <message>
         <source>Fee (in %s/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i %s/kB) der skal lægges til de transaktioner du sender (standard: %s)</translation>
+        <translation>Gebyr (i %s/kB) der skal lagges til de transaktioner du sender (standard: %s)</translation>
     </message>
     <message>
         <source>Pruning blockstore...</source>
-        <translation>Beskærer bloklager…</translation>
+        <translation>Beskarer bloklager…</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Kør i baggrunden som en service, og acceptér kommandoer</translation>
+        <translation>Kor i baggrunden som en service, og accepter kommandoer</translation>
     </message>
     <message>
         <source>Unable to start HTTP server. See debug log for details.</source>
@@ -2989,11 +2989,11 @@
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Acceptér forbindelser udefra (standard: 1 hvis hverken -proxy eller -connect)</translation>
+        <translation>Accepter forbindelser udefra (standard: 1 hvis hverken -proxy eller -connect)</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>
@@ -3001,27 +3001,27 @@
     </message>
     <message>
         <source>-fallbackfee is set very high! This is the transaction fee you may pay when fee estimates are not available.</source>
-        <translation>-fallbackfee er sat meget højt! Dette er transaktionsgebyret, du eventuelt betaler, hvis gebyrestimater ikke er tilgængelige.</translation>
+        <translation>-fallbackfee er sat meget hojt! Dette er transaktionsgebyret, du eventuelt betaler, hvis gebyrestimater ikke er tilgangelige.</translation>
     </message>
     <message>
         <source>A fee rate (in %s/kB) that will be used when fee estimation has insufficient data (default: %s)</source>
-        <translation>En gebyrsats (i %s/kB), som vil blive brugt, hvis gebyrestimering har utilstrækkelig data (standard: %s)</translation>
+        <translation>En gebyrsats (i %s/kB), som vil blive brugt, hvis gebyrestimering har utilstrakkelig data (standard: %s)</translation>
     </message>
     <message>
         <source>Accept relayed transactions received from whitelisted peers even when not relaying transactions (default: %d)</source>
-        <translation>Acceptér videresendte transaktioner, der modtages fra hvidlistede knuder, selv når transaktioner ikke videresendes (standard: %d)</translation>
+        <translation>Accepter videresendte transaktioner, der modtages fra hvidlistede knuder, selv nar transaktioner ikke videresendes (standard: %d)</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Tildel til den givne adresse og lyt altid på den. Brug [vært]:port-notation for IPv6</translation>
+        <translation>Tildel til den givne adresse og lyt altid pa den. Brug [vart]:port-notation for IPv6</translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. %s is probably already running.</source>
-        <translation>Kan ikke opnå en lås på datamappe %s. %s kører sansynligvis allerede.</translation>
+        <translation>Kan ikke opna en las pa datamappe %s. %s korer sansynligvis allerede.</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Slet alle transaktioner i tegnebogen og genskab kun disse dele af blokkæden gennem -rescan under opstart</translation>
+        <translation>Slet alle transaktioner i tegnebogen og genskab kun disse dele af blokkaden gennem -rescan under opstart</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3033,47 +3033,47 @@
     </message>
     <message>
         <source>Error loading %s: You can't enable HD on a already existing non-HD wallet</source>
-        <translation>Fejl under indlæsning af %s: Du kan ikke aktivere HD på en allerede eksisterende ikke-HD-tegnebog</translation>
+        <translation>Fejl under indlasning af %s: Du kan ikke aktivere HD pa en allerede eksisterende ikke-HD-tegnebog</translation>
     </message>
     <message>
         <source>Error reading %s! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Fejl under læsning af %s! Alle nøgler blev læst korrekt, men transaktionsdata eller indgange i adressebogen kan mangle eller være ukorrekte.</translation>
+        <translation>Fejl under lasning af %s! Alle nogler blev last korrekt, men transaktionsdata eller indgange i adressebogen kan mangle eller vare ukorrekte.</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Udfør kommando, når en transaktion i tegnebogen ændres (%s i kommandoen erstattes med TxID)</translation>
+        <translation>Udfor kommando, nar en transaktion i tegnebogen andres (%s i kommandoen erstattes med TxID)</translation>
     </message>
     <message>
         <source>Maximum allowed median peer time offset adjustment. Local perspective of time may be influenced by peers forward or backward by this amount. (default: %u seconds)</source>
-        <translation>Justering af maksimalt tilladt gennemsnitlig afvigelse fra peer-tid. Den lokale opfattelse af tid kan blive påvirket frem eller tilbage af peers med denne mængde tid. (standard: %u sekunder)</translation>
+        <translation>Justering af maksimalt tilladt gennemsnitlig afvigelse fra peer-tid. Den lokale opfattelse af tid kan blive pavirket frem eller tilbage af peers med denne mangde tid. (standard: %u sekunder)</translation>
     </message>
     <message>
         <source>Maximum total fees (in %s) to use in a single wallet transaction or raw transaction; setting this too low may abort large transactions (default: %s)</source>
-        <translation>Maksimalt totalgebyr (i %s) der må bruges i en enkelt tegnebogstransaktion eller rå transaktion; en for lav en værdi kan afbryde store transaktioner (standard: %s)</translation>
+        <translation>Maksimalt totalgebyr (i %s) der ma bruges i en enkelt tegnebogstransaktion eller ra transaktion; en for lav en vardi kan afbryde store transaktioner (standard: %s)</translation>
     </message>
     <message>
         <source>Please check that your computer's date and time are correct! If your clock is wrong, %s will not work properly.</source>
-        <translation>Undersøg venligst at din computers dato og klokkeslet er korrekt indstillet! Hvis der er fejl i disse, vil %s ikke fungere korrekt.</translation>
+        <translation>Undersog venligst at din computers dato og klokkeslet er korrekt indstillet! Hvis der er fejl i disse, vil %s ikke fungere korrekt.</translation>
     </message>
     <message>
         <source>Please contribute if you find %s useful. Visit %s for further information about the software.</source>
-        <translation>Overvej venligst at bidrage til udviklingen, hvis du finder %s brugbar. Besøg %s for yderligere information om softwaren.</translation>
+        <translation>Overvej venligst at bidrage til udviklingen, hvis du finder %s brugbar. Besog %s for yderligere information om softwaren.</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Sæt antallet af scriptverificeringstråde (%u til %d, 0 = auto, &lt;0 = efterlad det antal kernet fri, standard: %d)</translation>
+        <translation>Sat antallet af scriptverificeringstrade (%u til %d, 0 = auto, &lt;0 = efterlad det antal kernet fri, standard: %d)</translation>
     </message>
     <message>
         <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
-        <translation>Blokdatabasen indeholder en blok, som ser ud til at være fra fremtiden. Dette kan skyldes, at din computers dato og tid ikke er sat korrekt. Genopbyg kun blokdatabasen, hvis du er sikker på, at din computers dato og tid er korrekt</translation>
+        <translation>Blokdatabasen indeholder en blok, som ser ud til at vare fra fremtiden. Dette kan skyldes, at din computers dato og tid ikke er sat korrekt. Genopbyg kun blokdatabasen, hvis du er sikker pa, at din computers dato og tid er korrekt</translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Dette er en foreløbig testudgivelse - brug på eget ansvar - brug ikke til udvinding eller handelsprogrammer</translation>
+        <translation>Dette er en forelobig testudgivelse - brug pa eget ansvar - brug ikke til udvinding eller handelsprogrammer</translation>
     </message>
     <message>
         <source>Unable to rewind the database to a pre-fork state. You will need to redownload the blockchain</source>
-        <translation>Kan ikke spole databasen tilbage til en tilstand inden en splitning. Du er nødt til at downloade blokkæden igen</translation>
+        <translation>Kan ikke spole databasen tilbage til en tilstand inden en splitning. Du er nodt til at downloade blokkaden igen</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3081,39 +3081,39 @@
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Advarsel: Netværket ser ikke ud til at være fuldt ud enige! Enkelte minere ser ud til at opleve problemer.</translation>
+        <translation>Advarsel: Netvarket ser ikke ud til at vare fuldt ud enige! Enkelte minere ser ud til at opleve problemer.</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Advarsel: Vi ser ikke ud til at være fuldt ud enige med andre knuder! Du kan være nødt til at opgradere, eller andre knuder kan være nødt til at opgradere.</translation>
+        <translation>Advarsel: Vi ser ikke ud til at vare fuldt ud enige med andre knuder! Du kan vare nodt til at opgradere, eller andre knuder kan vare nodt til at opgradere.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
-        <translation>Sæt andre knuder, der forbinder fra den angivne netmaske eller IP, på hvidliste. Kan angives flere gange.</translation>
+        <translation>Sat andre knuder, der forbinder fra den angivne netmaske eller IP, pa hvidliste. Kan angives flere gange.</translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex-chainstate to change -txindex</source>
-        <translation>Du er nødt til at genopbygge databasen ved hjælp af -reindex-chainstate for at ændre -txindex</translation>
+        <translation>Du er nodt til at genopbygge databasen ved hjalp af -reindex-chainstate for at andre -txindex</translation>
     </message>
     <message>
         <source>%s corrupt, salvage failed</source>
-        <translation>%s ødelagt, redning af data mislykkedes</translation>
+        <translation>%s odelagt, redning af data mislykkedes</translation>
     </message>
     <message>
         <source>-maxmempool must be at least %d MB</source>
-        <translation>-maxmempool skal være mindst %d MB</translation>
+        <translation>-maxmempool skal vare mindst %d MB</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
-        <translation>&lt;kategori&gt; kan være:</translation>
+        <translation>&lt;kategori&gt; kan vare:</translation>
     </message>
     <message>
         <source>Append comment to the user agent string</source>
-        <translation>Føj kommentar til brugeragentstrengen</translation>
+        <translation>Foj kommentar til brugeragentstrengen</translation>
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet on startup</source>
-        <translation>Forsøg at genskabe private nøgler fra en ødelagt tegnebog under opstart</translation>
+        <translation>Forsog at genskabe private nogler fra en odelagt tegnebog under opstart</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3125,7 +3125,7 @@
     </message>
     <message>
         <source>Change index out of range</source>
-        <translation>Ændr indeks uden for interval</translation>
+        <translation>Andr indeks uden for interval</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -3137,11 +3137,11 @@
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
-        <translation>Ophavsret © %i-%i</translation>
+        <translation>Ophavsret c %i-%i</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>Ødelagt blokdatabase opdaget</translation>
+        <translation>Odelagt blokdatabase opdaget</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
@@ -3149,71 +3149,71 @@
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Indlæs ikke tegnebogen og slå tegnebogs-RPC-kald fra</translation>
+        <translation>Indlas ikke tegnebogen og sla tegnebogs-RPC-kald fra</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Ønsker du at genopbygge blokdatabasen nu?</translation>
+        <translation>Onsker du at genopbygge blokdatabasen nu?</translation>
     </message>
     <message>
         <source>Enable publish hash block in &lt;address&gt;</source>
-        <translation>Aktivér offentliggørelse af hash-blok i &lt;address&gt;</translation>
+        <translation>Aktiver offentliggorelse af hash-blok i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish hash transaction in &lt;address&gt;</source>
-        <translation>Aktivér offentliggørelse af hash-transaktion i &lt;address&gt;</translation>
+        <translation>Aktiver offentliggorelse af hash-transaktion i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw block in &lt;address&gt;</source>
-        <translation>Aktivér offentliggørelse af rå blok i &lt;address&gt;</translation>
+        <translation>Aktiver offentliggorelse af ra blok i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable publish raw transaction in &lt;address&gt;</source>
-        <translation>Aktivér offentliggørelse af rå transaktion i &lt;address&gt;</translation>
+        <translation>Aktiver offentliggorelse af ra transaktion i &lt;address&gt;</translation>
     </message>
     <message>
         <source>Enable transaction replacement in the memory pool (default: %u)</source>
-        <translation>Aktivér transaktionserstatning i hukommelsespuljen (standard: %u)</translation>
+        <translation>Aktiver transaktionserstatning i hukommelsespuljen (standard: %u)</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Klargøring af blokdatabase mislykkedes</translation>
+        <translation>Klargoring af blokdatabase mislykkedes</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Klargøring af tegnebogsdatabasemiljøet %s mislykkedes!</translation>
+        <translation>Klargoring af tegnebogsdatabasemiljoet %s mislykkedes!</translation>
     </message>
     <message>
         <source>Error loading %s</source>
-        <translation>Fejl under indlæsning af %s</translation>
+        <translation>Fejl under indlasning af %s</translation>
     </message>
     <message>
         <source>Error loading %s: Wallet corrupted</source>
-        <translation>Fejl under indlæsning af %s: Tegnebog ødelagt</translation>
+        <translation>Fejl under indlasning af %s: Tegnebog odelagt</translation>
     </message>
     <message>
         <source>Error loading %s: Wallet requires newer version of %s</source>
-        <translation>Fejl under indlæsning af %s: Tegnebog kræver nyere version af %s</translation>
+        <translation>Fejl under indlasning af %s: Tegnebog kraver nyere version af %s</translation>
     </message>
     <message>
         <source>Error loading %s: You can't disable HD on a already existing HD wallet</source>
-        <translation>Fejl under indlæsning af %s: Du kan ikke deaktivere HD på en allerede eksisterende HD-tegnebog</translation>
+        <translation>Fejl under indlasning af %s: Du kan ikke deaktivere HD pa en allerede eksisterende HD-tegnebog</translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>Indlæsning af blokdatabase mislykkedes</translation>
+        <translation>Indlasning af blokdatabase mislykkedes</translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Åbning af blokdatabase mislykkedes</translation>
+        <translation>Abning af blokdatabase mislykkedes</translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>Fejl: Mangel på ledig diskplads!</translation>
+        <translation>Fejl: Mangel pa ledig diskplads!</translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Lytning på enhver port mislykkedes. Brug -listen=0, hvis du ønsker dette.</translation>
+        <translation>Lytning pa enhver port mislykkedes. Brug -listen=0, hvis du onsker dette.</translation>
     </message>
     <message>
         <source>Importing...</source>
@@ -3221,11 +3221,11 @@
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Ukorrekt eller ingen tilblivelsesblok fundet. Forkert datamappe for netværk?</translation>
+        <translation>Ukorrekt eller ingen tilblivelsesblok fundet. Forkert datamappe for netvark?</translation>
     </message>
     <message>
         <source>Initialization sanity check failed. %s is shutting down.</source>
-        <translation>Klargøring af sundhedstjek mislykkedes. %s lukker ned.</translation>
+        <translation>Klargoring af sundhedstjek mislykkedes. %s lukker ned.</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -3233,11 +3233,11 @@
     </message>
     <message>
         <source>Invalid amount for -%s=&lt;amount&gt;: '%s'</source>
-        <translation>Ugyldigt beløb for -%s=&lt;beløb&gt;: "%s"</translation>
+        <translation>Ugyldigt belob for -%s=&lt;belob&gt;: "%s"</translation>
     </message>
     <message>
         <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
-        <translation>Ugyldigt beløb for -fallbackfee=&lt;beløb&gt;: "%s"</translation>
+        <translation>Ugyldigt belob for -fallbackfee=&lt;belob&gt;: "%s"</translation>
     </message>
     <message>
         <source>Keep the transaction memory pool below &lt;n&gt; megabytes (default: %u)</source>
@@ -3245,7 +3245,7 @@
     </message>
     <message>
         <source>Loading banlist...</source>
-        <translation>Indlæser bandlysningsliste…</translation>
+        <translation>Indlaser bandlysningsliste…</translation>
     </message>
     <message>
         <source>Location of the auth cookie (default: data dir)</source>
@@ -3253,15 +3253,15 @@
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>For få tilgængelige fildeskriptorer.</translation>
+        <translation>For fa tilgangelige fildeskriptorer.</translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Tilslut kun til knuder i netværk &lt;net&gt; (IPv4, IPv6 eller Onion)</translation>
+        <translation>Tilslut kun til knuder i netvark &lt;net&gt; (IPv4, IPv6 eller Onion)</translation>
     </message>
     <message>
         <source>Print this help message and exit</source>
-        <translation>Udskriv denne hjælpetekst og afslut</translation>
+        <translation>Udskriv denne hjalpetekst og afslut</translation>
     </message>
     <message>
         <source>Print version and exit</source>
@@ -3269,19 +3269,19 @@
     </message>
     <message>
         <source>Prune cannot be configured with a negative value.</source>
-        <translation>Beskæring kan ikke opsættes med en negativ værdi.</translation>
+        <translation>Beskaring kan ikke opsattes med en negativ vardi.</translation>
     </message>
     <message>
         <source>Prune mode is incompatible with -txindex.</source>
-        <translation>Beskæringstilstand er ikke kompatibel med -txindex.</translation>
+        <translation>Beskaringstilstand er ikke kompatibel med -txindex.</translation>
     </message>
     <message>
         <source>Rebuild chain state and block index from the blk*.dat files on disk</source>
-        <translation>Genopbyg kædetilstand og blokindeks fra blk*.dat-filerne på disken</translation>
+        <translation>Genopbyg kadetilstand og blokindeks fra blk*.dat-filerne pa disken</translation>
     </message>
     <message>
         <source>Rebuild chain state from the currently indexed blocks</source>
-        <translation>Genopbyg kædetilstand ud fra de aktuelt indekserede blokke</translation>
+        <translation>Genopbyg kadetilstand ud fra de aktuelt indekserede blokke</translation>
     </message>
     <message>
         <source>Rewinding blocks...</source>
@@ -3289,15 +3289,15 @@
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Sæt cache-størrelse for database i megabytes (%d til %d; standard: %d)</translation>
+        <translation>Sat cache-storrelse for database i megabytes (%d til %d; standard: %d)</translation>
     </message>
     <message>
         <source>Set maximum BIP141 block weight (default: %d)</source>
-        <translation>Sæt maksimal BIP141-blokvægt (standard: %d)</translation>
+        <translation>Sat maksimal BIP141-blokvagt (standard: %d)</translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Sæt maksimum blokstørrelse i byte (standard: %d)</translation>
+        <translation>Sat maksimum blokstorrelse i byte (standard: %d)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -3305,27 +3305,27 @@
     </message>
     <message>
         <source>Starting network threads...</source>
-        <translation>Starter netværkstråde…</translation>
+        <translation>Starter netvarkstrade…</translation>
     </message>
     <message>
         <source>The source code is available from %s.</source>
-        <translation>Kildekoden er tilgængelig fra %s.</translation>
+        <translation>Kildekoden er tilgangelig fra %s.</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. %s is probably already running.</source>
-        <translation>Ikke i stand til at tildele til %s på denne computer. %s kører formodentlig allerede.</translation>
+        <translation>Ikke i stand til at tildele til %s pa denne computer. %s korer formodentlig allerede.</translation>
     </message>
     <message>
         <source>Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>Argument -benchmark understøttes ikke og ignoreres; brug -debug=bench.</translation>
+        <translation>Argument -benchmark understottes ikke og ignoreres; brug -debug=bench.</translation>
     </message>
     <message>
         <source>Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>Argument -debugnet understøttes ikke og ignoreres; brug -debug=net.</translation>
+        <translation>Argument -debugnet understottes ikke og ignoreres; brug -debug=net.</translation>
     </message>
     <message>
         <source>Unsupported argument -tor found, use -onion.</source>
-        <translation>Argument -tor understøttes ikke; brug -onion.</translation>
+        <translation>Argument -tor understottes ikke; brug -onion.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
@@ -3353,7 +3353,7 @@
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart %s to complete</source>
-        <translation>Det var nødvendigt at genskrive tegnebogen: Genstart %s for at gennemføre</translation>
+        <translation>Det var nodvendigt at genskrive tegnebogen: Genstart %s for at gennemfore</translation>
     </message>
     <message>
         <source>Wallet options:</source>
@@ -3361,19 +3361,19 @@
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>Tillad JSON-RPC-forbindelser fra angivet kilde. Gyldig for &lt;ip&gt; er en enkelt IP (fx 1.2.3.4), et netværk/netmaske (fx 1.2.3.4/255.255.255.0) eller et netværk/CIDR (fx 1.2.3.4/24). Dette tilvalg kan angives flere gange</translation>
+        <translation>Tillad JSON-RPC-forbindelser fra angivet kilde. Gyldig for &lt;ip&gt; er en enkelt IP (fx 1.2.3.4), et netvark/netmaske (fx 1.2.3.4/255.255.255.0) eller et netvark/CIDR (fx 1.2.3.4/24). Dette tilvalg kan angives flere gange</translation>
     </message>
     <message>
         <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>Tildel given adresse og sæt andre knuder, der forbinder til den, på hvidliste. Brug [vært]:port notation for IPv6</translation>
+        <translation>Tildel given adresse og sat andre knuder, der forbinder til den, pa hvidliste. Brug [vart]:port notation for IPv6</translation>
     </message>
     <message>
         <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-        <translation>Tildel til den givne adresse for at lytte efter JSON-RPC-forbindelser. Brug [vært]:port-notation for IPv6. Denne valgmulighed kan angives flere gange (standard: tildel til alle grænseflader)</translation>
+        <translation>Tildel til den givne adresse for at lytte efter JSON-RPC-forbindelser. Brug [vart]:port-notation for IPv6. Denne valgmulighed kan angives flere gange (standard: tildel til alle granseflader)</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>Opret nye filer med systemstandard for rettigheder i stedet for umask 077 (kun virksomt med tegnebogsfunktionalitet slået fra)</translation>
+        <translation>Opret nye filer med systemstandard for rettigheder i stedet for umask 077 (kun virksomt med tegnebogsfunktionalitet slaet fra)</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
@@ -3385,7 +3385,7 @@
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Udfør kommando, når en relevant alarm modtages eller vi ser en virkelig lang udsplitning (%s i cmd erstattes af besked)</translation>
+        <translation>Udfor kommando, nar en relevant alarm modtages eller vi ser en virkelig lang udsplitning (%s i cmd erstattes af besked)</translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for relaying, mining and transaction creation (default: %s)</source>
@@ -3393,51 +3393,51 @@
     </message>
     <message>
         <source>Force relay of transactions from whitelisted peers even if they violate local relay policy (default: %d)</source>
-        <translation>Gennemtving videresendelse af transaktioner fra hvidlistede knuder, selv om de overtræder lokal videresendelsespolitik (standard: %d)</translation>
+        <translation>Gennemtving videresendelse af transaktioner fra hvidlistede knuder, selv om de overtrader lokal videresendelsespolitik (standard: %d)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-        <translation>Hvis paytxfee ikke er sat, inkluderes nok gebyr til at transaktioner begynder at blive bekræftet ingen for gennemsnitligt n blokke (standard: %u)</translation>
+        <translation>Hvis paytxfee ikke er sat, inkluderes nok gebyr til at transaktioner begynder at blive bekraftet ingen for gennemsnitligt n blokke (standard: %u)</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>Ugyldigt beløb for -maxtxfee=&lt;beløb&gt;: "%s" (skal være på mindst minrelay-gebyret på %s for at undgå hængende transaktioner)</translation>
+        <translation>Ugyldigt belob for -maxtxfee=&lt;belob&gt;: "%s" (skal vare pa mindst minrelay-gebyret pa %s for at undga hangende transaktioner)</translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
-        <translation>Maksimal størrelse på data i transaktioner til dataoverførsel, som vi videresender og miner (standard: %u)</translation>
+        <translation>Maksimal storrelse pa data i transaktioner til dataoverforsel, som vi videresender og miner (standard: %u)</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation>Forespørgsel</translation>
+        <translation>Foresporgsel</translation>
     </message>
     <message>
         <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
-        <translation>Brug tilfældige akkreditiver for hver proxy-forbindelse. Dette aktiverer strømisolation med Tor (standard: %u)</translation>
+        <translation>Brug tilfaldige akkreditiver for hver proxy-forbindelse. Dette aktiverer stromisolation med Tor (standard: %u)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Sæt maksimumstørrelse for højprioritet/lavgebyr-transaktioner i byte (standard: %d)</translation>
+        <translation>Sat maksimumstorrelse for hojprioritet/lavgebyr-transaktioner i byte (standard: %d)</translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>Transaktionsbeløbet er for lille til at sende, når gebyret er trukket fra</translation>
+        <translation>Transaktionsbelobet er for lille til at sende, nar gebyret er trukket fra</translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
-        <translation>Dette produkt indeholder software, der er udviklet af OpenSSL-projektet for brug i OpenSSL-værktøjskassen &lt;https://www.openssl.org/&gt;, samt kryptografisk software, der er skrevet af Eric Young, samt UPnP-software, der er skrevet af Thomas Bernard.</translation>
+        <translation>Dette produkt indeholder software, der er udviklet af OpenSSL-projektet for brug i OpenSSL-varktojskassen &lt;https://www.openssl.org/&gt;, samt kryptografisk software, der er skrevet af Eric Young, samt UPnP-software, der er skrevet af Thomas Bernard.</translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after BIP32. Only has effect during wallet creation/first start</source>
-        <translation>Brug hierarkisk deterministisk nøglegenerering (HD) efter BIP32. Har kun effekt ved generering af ny tegnebog og under første opstart</translation>
+        <translation>Brug hierarkisk deterministisk noglegenerering (HD) efter BIP32. Har kun effekt ved generering af ny tegnebog og under forste opstart</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>Andre knuder på hvidliste kan ikke DoS-bandlyses, og deres transaktioner videresendes altid, selv hvis de allerede er i hukommelsespuljen. Brugbart til fx et adgangspunkt</translation>
+        <translation>Andre knuder pa hvidliste kan ikke DoS-bandlyses, og deres transaktioner videresendes altid, selv hvis de allerede er i hukommelsespuljen. Brugbart til fx et adgangspunkt</translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to go back to unpruned mode.  This will redownload the entire blockchain</source>
-        <translation>Du er nødt til at genopbygge databasen ved hjælp af -reindex for at gå tilbage til ikke-beskåret tilstand. Dette vil downloade hele blokkæden igen</translation>
+        <translation>Du er nodt til at genopbygge databasen ved hjalp af -reindex for at ga tilbage til ikke-beskaret tilstand. Dette vil downloade hele blokkaden igen</translation>
     </message>
     <message>
         <source>(default: %u)</source>
@@ -3445,7 +3445,7 @@
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>Acceptér offentlige REST-anmodninger (standard: %u)</translation>
+        <translation>Accepter offentlige REST-anmodninger (standard: %u)</translation>
     </message>
     <message>
         <source>Automatically create Tor hidden service (default: %d)</source>
@@ -3457,7 +3457,7 @@
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
-        <translation>Fejl under læsning fra database; lukker ned.</translation>
+        <translation>Fejl under lasning fra database; lukker ned.</translation>
     </message>
     <message>
         <source>Imports blocks from external blk000??.dat file on startup</source>
@@ -3469,7 +3469,7 @@
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Ugyldigt beløb for -paytxfee=&lt;beløb&gt;: "%s" (skal være mindst %s)</translation>
+        <translation>Ugyldigt belob for -paytxfee=&lt;belob&gt;: "%s" (skal vare mindst %s)</translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: '%s'</source>
@@ -3477,11 +3477,11 @@
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-        <translation>Behold højest &lt;n&gt; uforbindelige transaktioner i hukommelsen (standard: %u)</translation>
+        <translation>Behold hojest &lt;n&gt; uforbindelige transaktioner i hukommelsen (standard: %u)</translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Nødt til at angive en port med -whitebinde: "%s"</translation>
+        <translation>Nodt til at angive en port med -whitebinde: "%s"</translation>
     </message>
     <message>
         <source>Node relay options:</source>
@@ -3493,15 +3493,15 @@
     </message>
     <message>
         <source>Reducing -maxconnections from %d to %d, because of system limitations.</source>
-        <translation>Reducerer -maxconnections fra %d til %d på grund af systembegrænsninger.</translation>
+        <translation>Reducerer -maxconnections fra %d til %d pa grund af systembegransninger.</translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions on startup</source>
-        <translation>Genindlæs blokkæden efter manglende tegnebogstransaktioner under opstart</translation>
+        <translation>Genindlas blokkaden efter manglende tegnebogstransaktioner under opstart</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Send sporings-/fejlsøgningsinformation til konsollen i stedet for debug.log filen</translation>
+        <translation>Send sporings-/fejlsogningsinformation til konsollen i stedet for debug.log filen</translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
@@ -3509,7 +3509,7 @@
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Vis alle tilvalg for fejlsøgning (brug: --help -help-debug)</translation>
+        <translation>Vis alle tilvalg for fejlsogning (brug: --help -help-debug)</translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
@@ -3521,7 +3521,7 @@
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation>Transaktionsbeløbet er for lille til at betale gebyret</translation>
+        <translation>Transaktionsbelobet er for lille til at betale gebyret</translation>
     </message>
     <message>
         <source>This is experimental software.</source>
@@ -3537,11 +3537,11 @@
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Transaktionsbeløb er for lavt</translation>
+        <translation>Transaktionsbelob er for lavt</translation>
     </message>
     <message>
         <source>Transaction amounts must be positive</source>
-        <translation>Transaktionsbeløb skal være positive</translation>
+        <translation>Transaktionsbelob skal vare positive</translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
@@ -3553,11 +3553,11 @@
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>Ikke i stand til at tildele til %s på denne computer (bind returnerede fejl %s)</translation>
+        <translation>Ikke i stand til at tildele til %s pa denne computer (bind returnerede fejl %s)</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup</source>
-        <translation>Opgradér tegnebog til seneste format under opstart</translation>
+        <translation>Opgrader tegnebog til seneste format under opstart</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
@@ -3589,7 +3589,7 @@
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Udfør kommando, når den bedste blok ændres (%s i kommandoen erstattes med blokhash)</translation>
+        <translation>Udfor kommando, nar den bedste blok andres (%s i kommandoen erstattes med blokhash)</translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
@@ -3597,7 +3597,7 @@
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Indlæser adresser…</translation>
+        <translation>Indlaser adresser…</translation>
     </message>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
@@ -3605,11 +3605,11 @@
     </message>
     <message>
         <source>-maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>-maxtxfee er sat meget højt! Gebyrer så store risikeres betalt på en enkelt transaktion.</translation>
+        <translation>-maxtxfee er sat meget hojt! Gebyrer sa store risikeres betalt pa en enkelt transaktion.</translation>
     </message>
     <message>
         <source>-paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>-paytxfee er sat meget højt! Dette er transaktionsgebyret, som du betaler, hvis du sender en transaktion.</translation>
+        <translation>-paytxfee er sat meget hojt! Dette er transaktionsgebyret, som du betaler, hvis du sender en transaktion.</translation>
     </message>
     <message>
         <source>Do not keep transactions in the mempool longer than &lt;n&gt; hours (default: %u)</source>
@@ -3629,35 +3629,35 @@
     </message>
     <message>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>Antal sekunder, som knuder der opfører sig upassende, skal vente før reetablering (standard: %u)</translation>
+        <translation>Antal sekunder, som knuder der opforer sig upassende, skal vente for reetablering (standard: %u)</translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Udskriv fejlsøgningsinformation (standard: %u, angivelse af &lt;kategori&gt; er valgfri)</translation>
+        <translation>Udskriv fejlsogningsinformation (standard: %u, angivelse af &lt;kategori&gt; er valgfri)</translation>
     </message>
     <message>
         <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
-        <translation>Understøt filtrering af blokke og transaktioner med Bloom-filtre (standard: %u)</translation>
+        <translation>Understot filtrering af blokke og transaktioner med Bloom-filtre (standard: %u)</translation>
     </message>
     <message>
         <source>Total length of network version string (%i) exceeds maximum length (%i). Reduce the number or size of uacomments.</source>
-        <translation>Den totale længde på netværksversionsstrengen (%i) overstiger maksimallængden (%i). Reducér antaller af eller størrelsen på uacomments.</translation>
+        <translation>Den totale langde pa netvarksversionsstrengen (%i) overstiger maksimallangden (%i). Reducer antaller af eller storrelsen pa uacomments.</translation>
     </message>
     <message>
         <source>Tries to keep outbound traffic under the given target (in MiB per 24h), 0 = no limit (default: %d)</source>
-        <translation>Prøver at holde udadgående traffik under det givne mål (i MiB pr. 24 timer), 0 = ingen grænse (standard: %d)</translation>
+        <translation>Prover at holde udadgaende traffik under det givne mal (i MiB pr. 24 timer), 0 = ingen granse (standard: %d)</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>Argument -socks understøttes ikke. Det er ikke længere muligt at sætte SOCKS-version; kun SOCKS5-proxier understøttes.</translation>
+        <translation>Argument -socks understottes ikke. Det er ikke langere muligt at satte SOCKS-version; kun SOCKS5-proxier understottes.</translation>
     </message>
     <message>
         <source>Unsupported argument -whitelistalwaysrelay ignored, use -whitelistrelay and/or -whitelistforcerelay.</source>
-        <translation>Argument -whitelistalwaysrelay understøttes ikke og ignoreres; brug -whitelistrelay og/eller -whitelistforcerelay.</translation>
+        <translation>Argument -whitelistalwaysrelay understottes ikke og ignoreres; brug -whitelistrelay og/eller -whitelistforcerelay.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>Brug separat SOCS5-proxy for at nå knuder via skjulte Tor-tjenester (standard: %s)</translation>
+        <translation>Brug separat SOCS5-proxy for at na knuder via skjulte Tor-tjenester (standard: %s)</translation>
     </message>
     <message>
         <source>Username and hashed password for JSON-RPC connections. The field &lt;userpw&gt; comes in the format: &lt;USERNAME&gt;:&lt;SALT&gt;$&lt;HASH&gt;. A canonical python script is included in share/rpcuser. This option can be specified multiple times</source>
@@ -3669,7 +3669,7 @@
     </message>
     <message>
         <source>Warning: Wallet file corrupt, data salvaged! Original %s saved as %s in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Advarsel: Tegnebogsfil ødelagt, data reddet! Oprindelig %s gemt som %s i %s; hvis din saldo eller dine transaktioner er forkert, bør du genskabe fra en sikkerhedskopi.</translation>
+        <translation>Advarsel: Tegnebogsfil odelagt, data reddet! Oprindelig %s gemt som %s i %s; hvis din saldo eller dine transaktioner er forkert, bor du genskabe fra en sikkerhedskopi.</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3677,7 +3677,7 @@
     </message>
     <message>
         <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>Forespørg altid adresser på andre knuder via DNS-opslag (default: %u)</translation>
+        <translation>Foresporg altid adresser pa andre knuder via DNS-opslag (default: %u)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
@@ -3685,7 +3685,7 @@
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>Inkludér IP-adresser i fejlretningsoutput (standard: %u)</translation>
+        <translation>Inkluder IP-adresser i fejlretningsoutput (standard: %u)</translation>
     </message>
     <message>
         <source>Invalid -proxy address: '%s'</source>
@@ -3693,19 +3693,19 @@
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Lyt efter JSON-RPC-forbindelser på &lt;port&gt; (standard: %u eller testnet: %u)</translation>
+        <translation>Lyt efter JSON-RPC-forbindelser pa &lt;port&gt; (standard: %u eller testnet: %u)</translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Lyt efter forbindelser på &lt;port&gt; (standard: %u eller testnet: %u)</translation>
+        <translation>Lyt efter forbindelser pa &lt;port&gt; (standard: %u eller testnet: %u)</translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>Oprethold højest &lt;n&gt; forbindelser til andre knuder (standard: %u)</translation>
+        <translation>Oprethold hojest &lt;n&gt; forbindelser til andre knuder (standard: %u)</translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>Få tegnebogen til at transmittere transaktioner</translation>
+        <translation>Fa tegnebogen til at transmittere transaktioner</translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
@@ -3717,11 +3717,11 @@
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>Føj tidsstempel foran fejlsøgningsoutput (standard: %u)</translation>
+        <translation>Foj tidsstempel foran fejlsogningsoutput (standard: %u)</translation>
     </message>
     <message>
         <source>Relay and mine data carrier transactions (default: %u)</source>
-        <translation>Videresend og udvind databærer-transaktioner (standard: %u)</translation>
+        <translation>Videresend og udvind databarer-transaktioner (standard: %u)</translation>
     </message>
     <message>
         <source>Relay non-P2SH multisig (default: %u)</source>
@@ -3729,12 +3729,12 @@
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>Sæt nøglepuljestørrelse til &lt;n&gt; (standard: %u)
+        <translation>Sat noglepuljestorrelse til &lt;n&gt; (standard: %u)
 </translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>Angiv antallet af tråde til at håndtere RPC-kald (standard: %d)</translation>
+        <translation>Angiv antallet af trade til at handtere RPC-kald (standard: %d)</translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
@@ -3750,31 +3750,31 @@
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>Brug ubekræftede byttepenge under afsendelse af transaktioner (standard: %u)</translation>
+        <translation>Brug ubekraftede byttepenge under afsendelse af transaktioner (standard: %u)</translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>Grænse for afbrydelse af forbindelse til knuder, der opfører sig upassende (standard: %u)</translation>
+        <translation>Granse for afbrydelse af forbindelse til knuder, der opforer sig upassende (standard: %u)</translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Ukendt netværk anført i -onlynet: "%s"</translation>
+        <translation>Ukendt netvark anfort i -onlynet: "%s"</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Manglende dækning</translation>
+        <translation>Manglende dakning</translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Indlæser blokindeks…</translation>
+        <translation>Indlaser blokindeks…</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Tilføj en knude til at forbinde til og forsøg at holde forbindelsen åben</translation>
+        <translation>Tilfoj en knude til at forbinde til og forsog at holde forbindelsen aben</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Indlæser tegnebog…</translation>
+        <translation>Indlaser tegnebog…</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
@@ -3786,11 +3786,11 @@
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Genindlæser…</translation>
+        <translation>Genindlaser…</translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Indlæsning gennemført</translation>
+        <translation>Indlasning gennemfort</translation>
     </message>
     <message>
         <source>Error</source>

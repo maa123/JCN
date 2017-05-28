@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Copïo</translation>
+        <translation>&amp;Copio</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
@@ -55,7 +55,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Cysoni â'r rhwydwaith...</translation>
+        <translation>Cysoni a'r rhwydwaith...</translation>
     </message>
     <message>
         <source>&amp;Overview</source>
@@ -114,8 +114,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -490,8 +490,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Craidd Litecoin</translation>
+        <source>JapariCoin Core</source>
+        <translation>Craidd JapariCoin</translation>
     </message>
     <message>
         <source>Information</source>

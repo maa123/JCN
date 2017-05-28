@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Click derecho para editar la dirección o etiqueta</translation>
+        <translation>Click derecho para editar la direccion o etiqueta</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Crear una nueva dirección</translation>
+        <translation>Crear una nueva direccion</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiar la dirección actualmente seleccionada al sistema de portapapeles</translation>
+        <translation>Copiar la direccion actualmente seleccionada al sistema de portapapeles</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Borrar la dirección actualmente seleccionada de la lista</translation>
+        <translation>Borrar la direccion actualmente seleccionada de la lista</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -45,19 +45,19 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>Diálogo de contraseña</translation>
+        <translation>Dialogo de contrasena</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>Poner contraseña</translation>
+        <translation>Poner contrasena</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Nueva contraseña</translation>
+        <translation>Nueva contrasena</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Repetir nueva contraseña</translation>
+        <translation>Repetir nueva contrasena</translation>
     </message>
     </context>
 <context>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Salir de la aplicación</translation>
+        <translation>Salir de la aplicacion</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Mostrar información sobre Qt</translation>
+        <translation>Mostrar informacion sobre Qt</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Cambiar contraseña...</translation>
+        <translation>&amp;Cambiar contrasena...</translation>
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
@@ -126,12 +126,12 @@
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviando monedas a una dirección de Litecoin</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Enviando monedas a una direccion de JapariCoin</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña usando la encriptación de la billetera</translation>
+        <translation>Cambiar la contrasena usando la encriptacion de la billetera</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -139,15 +139,15 @@
     </message>
     <message>
         <source>Open debugging and diagnostic console</source>
-        <translation>Abrir consola de diagnóstico y desarrollo</translation>
+        <translation>Abrir consola de diagnostico y desarrollo</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verificar Mensaje...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -290,8 +290,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Core</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -303,7 +303,7 @@
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>No se puede escribir la dirección por defecto</translation>
+        <translation>No se puede escribir la direccion por defecto</translation>
     </message>
     <message>
         <source>Rescanning...</source>

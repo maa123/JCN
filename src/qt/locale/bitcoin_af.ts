@@ -158,20 +158,20 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Stuur munte na 'n Litecoin adres</translation>
+        <source>Send coins to a JapariCoin address</source>
+        <translation>Stuur munte na 'n JapariCoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Maak 'n rugsteun-kopié van beursie na 'n ander stoorplek</translation>
+        <translation>Maak 'n rugsteun-kopie van beursie na 'n ander stoorplek</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
         <translation>Verander die wagwoord wat ek vir kodifikasie van my beursie gebruik</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>JapariCoin</source>
+        <translation>JapariCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -194,12 +194,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u Litecoin adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your JapariCoin addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u JapariCoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Litecoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified JapariCoin addresses</source>
+        <translation>Verifieer boodskappe om seker te maak dat dit met die gespesifiseerde JapariCoin adresse</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -210,8 +210,8 @@
         <translation>Orebalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en litecoin: URI's)</translation>
+        <source>Request payments (generates QR codes and JapariCoin: URIs)</source>
+        <translation>Versoek betalings (genereer QR-kodes en JapariCoin: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -222,12 +222,12 @@
         <translation>Vertoon die lys van gebruikte ontvangers-adresse en etikette</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Skep 'n litecoin: URI of betalingsversoek</translation>
+        <source>Open a JapariCoin: URI or payment request</source>
+        <translation>Skep 'n JapariCoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
-        <translation>Blokke op skyf word geïndekseer...</translation>
+        <translation>Blokke op skyf word geindekseer...</translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Reset all client options to default.</source>
-        <translation>Alle kliëntopsies na verstek terugstel.</translation>
+        <translation>Alle klientopsies na verstek terugstel.</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Kliënt moet herbegin word om veranderinge te aktiveer.</translation>
+        <translation>Klient moet herbegin word om veranderinge te aktiveer.</translation>
     </message>
     </context>
 <context>
@@ -554,7 +554,7 @@
     </message>
     <message>
         <source>Client version</source>
-        <translation>Kliëntweergawe</translation>
+        <translation>Klientweergawe</translation>
     </message>
     <message>
         <source>General</source>
@@ -710,8 +710,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Kern</translation>
+        <source>JapariCoin Core</source>
+        <translation>JapariCoin Kern</translation>
     </message>
     <message>
         <source>Information</source>
