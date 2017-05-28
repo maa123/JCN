@@ -1,3 +1,6 @@
+Liteコインベースに何かつくる
+
+
 Litecoin Core integration/staging tree
 =====================================
 
