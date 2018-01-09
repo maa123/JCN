@@ -2,8 +2,10 @@ Liteコインベースに何かつくる
 
 [![Build Status](https://travis-ci.org/maa123/litecoin.svg?branch=master)](https://travis-ci.org/maa123/litecoin)
 
-Litecoin Core integration/staging tree
+Japaricoin Core integration/staging tree
 =====================================
+
+
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
