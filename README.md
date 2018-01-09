@@ -1,6 +1,6 @@
 Liteコインベースに何かつくる
 
-[![Build Status](https://travis-ci.org/maa123/litecoin.svg?branch=master)](https://travis-ci.org/maa123/litecoin)
+[![Build Status](https://travis-ci.org/maa123/JCN.svg?branch=master)](https://travis-ci.org/maa123/JCN)
 
 Japaricoin Core integration/staging tree
 =====================================
